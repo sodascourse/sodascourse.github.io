@@ -7,40 +7,24 @@
             <small>@ NCCU CS - Spring 2016</small>
         </h1>
     </div>
-    <table id="class-table" class="table table-hover table-striped">
+    <table class="class-table table table-hover table-striped">
         <thead>
             <tr>
-                <th>Date</th>
+                <th></th>
                 <th>Title</th>
                 <th>Resources</th>
             </tr>
         </thead>
         <tbody>
-            <tr>
-                <th>2/25</th>
-                <td>Preface and Introduction to Mobile Platform Programming</td>
-                <td></td>
-            </tr>
-            <tr>
-                <th>3/3</th>
-                <td>The Swift Language</td>
-                <td></td>
-            </tr>
-            <tr>
-                <th>3/10</th>
-                <td>Xcode, Storyboard, and MVC Pattern</td>
-                <td></td>
-            </tr>
-            <tr>
-                <th>3/17</th>
-                <td></td>
-                <td></td>
-            </tr>
+            {% for class in site.data.['spring-16-classes'] %}
+                <tr class="{{ class.row-class | default: ''}}">
+                    <th>{{ class.date }}</th>
+                    <td>
+                        {{ class.title | default: "[TBA]" }}
+                    </td>
+                    <td></td>
+                </tr>
+            {% endfor %}
         </tbody>
     </table>
 </section>
-<hr>
-{% for class in site.data.classes %}
-    {{ class.name }}
-{% endfor %}
-<hr>

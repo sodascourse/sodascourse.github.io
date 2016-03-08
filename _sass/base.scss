@@ -2,13 +2,18 @@ body {
     padding-top: 70px;
 }
 
-#class-table {
+.class-table {
     thead {
         th:nth-child(1) {
             width: 5%;
         }
         th:nth-child(2) {
             width: 45%;
+        }
+    }
+    tbody {
+        th:nth-child(1) {
+            text-align: right;
         }
     }
 }
