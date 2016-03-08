@@ -1,4 +1,5 @@
 ---
+title: Index
 ---
 <section class="table-responsive container">
     <div class="page-header">
@@ -39,3 +40,8 @@
         </tbody>
     </table>
 </section>
+<hr>
+{% for class in site.data.classes %}
+    {{ class.name }}
+{% endfor %}
+<hr>
