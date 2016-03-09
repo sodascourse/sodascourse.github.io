@@ -1,11 +1,80 @@
 - date: 2/25
   title: Preface and Introduction to Mobile Platform Programming
+  topics:
+    - Grading
+    - Introduction to Apple's platforms
+  resources:
+    slides:
+      - name: Preface
+        link: /slides/spring-16/00-Preface.pdf
+      - name: Preface - Print
+        link: /slides/spring-16/00-Preface-Print.pdf
 
 - date: 3/3
   title: The Swift Language
+  topics:
+    - Variables and Types
+    - Basic Data Types
+    - Collection Data Types
+    - Operators
+    - Control Flow
+    - Functions
+    - Closures
+  resources:
+    slides:
+      - name: Xcode, Storyboard, and Swift
+        link: /slides/spring-16/01-Swift.pdf
+      - name: Xcode, Storyboard, and Swift - Print
+        link: /slides/spring-16/01-Swift-Print.pdf
+    playgrounds:
+      - name: Swift Introduction
+        link: https://github.com/sodascourse/swift-introduction
+    homework:
+      - name: Homework 1 - Calculator
+        link: /slides/spring-16/hw1.pdf
+      - name: Calculator Core
+        link: https://github.com/sodascourse/calculator
+    extra reading:
+      - name: The Swift Programming Language
+        link: https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/
+      - name: Learn the Essentials of Swift
+        link: https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson1.html
+      - name: iOS Human Interface Guideline
+        link: https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/
 
 - date: 3/10
   title: Xcode, Storyboard and MVC Pattern
+  topics:
+    - Swift - Optional
+    - Swift - Classes and Structures
+    - Swift - Enums
+    - Swift - Protocols and Extensions
+    - Swift - Error Handling
+    - Connections (Outlet and Action) in Storyboard
+    - Create a single view app
+  resources:
+    slides:
+      - name: Xcode and Storyboard - Print
+        link: /slides/spring-16/02-Storyboard.pdf
+      - name: Xcode and Storyboard
+        link: /slides/spring-16/02-Storyboard-Print.pdf
+    playgrounds:
+      - name: Swift Introduction
+        link: https://github.com/sodascourse/swift-introduction
+    sample projects:
+      - name: GCD Example
+        link: https://github.com/sodascourse/gcd-example
+      - name: Calculator Demo
+        link: https://github.com/sodascourse/calculator
+    extra reading:
+      - name: The Swift Programming Language
+        link: https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/
+      - name: Learn the Essentials of Swift
+        link: https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson1.html
+      - name: Connect the UI to Code
+        link: https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson3.html
+      - name: iOS Human Interface Guideline
+        link: https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/
 
 - date: 3/17
 

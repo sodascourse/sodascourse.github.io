@@ -1,15 +1,18 @@
 body {
     padding-top: 70px;
 }
-footer {
-    margin-top: 40px;
-    padding: 40px 0;
 
-    border-top: 1px solid #ccc;
-    background: #f9f9f9;
+#main- {
+    &footer {
+        margin-top: 40px;
+        padding: 40px 0;
 
-    font-size: .9em;
-    color: #666;
+        border-top: 1px solid #ccc;
+        background: #f9f9f9;
+
+        font-size: .9em;
+        color: #666;
+    }
 }
 
 .class-table {
@@ -18,12 +21,30 @@ footer {
             width: 5%;
         }
         th:nth-child(2) {
-            width: 45%;
+            width: 30%;
+        }
+        th:nth-child(3) {
+            width: 30%;
         }
     }
     tbody {
         th:nth-child(1) {
             text-align: right;
         }
+        th:nth-child(1), td:nth-child(2) {
+            vertical-align: middle;
+        }
+    }
+
+    .resource-section {
+        header {
+            text-transform: uppercase;
+            font-weight: 600;
+            font-size: .9em;
+        }
+    }
+
+    ul {
+        padding-left: 20px;
     }
 }

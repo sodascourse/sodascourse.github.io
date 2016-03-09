@@ -1,17 +1,46 @@
 ---
 ---
-<section class="table-responsive container">
-    <div class="page-header">
+<section class="container">
+    <header class="page-header">
         <h1>
             Mobile Application Programming
             <small>@ NCCU CS - Spring 2016</small>
         </h1>
+    </header>
+    <div class="panel panel-default">
+        <div class="panel-body">
+            <p>
+                For more information, see
+                <ul>
+                    <li><a href="http://moodle.nccu.edu.tw/course/view.php?id=2078" target="_blank">NCCU Moodle</a></li>
+                    <li>Contact me via
+                        <ul>
+                            <li><a href="https://about.me/sodastsai" target="_blank">about.me/sodastsai</a></li>
+                            <li>Twitter: <a href="https://twitter.com/sodastsai" target="_blank">@sodastsai</a></li>
+                            <li><a href="https://linkedin.com/in/sodastsai" target="_blank">LinkedIn</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+            <p>
+                This site is hosted via GitHub Pages,
+                see <a href="https://github.com/sodascourse/sodascourse.github.io" target="_blank">sodascourse/sodascourse.github.io</a><br>
+                Playgrounds and Sample projects are hosted via GitHub too, see <a href="https://github.com/sodascourse/" target="_blank">sodascourse</a><br>
+                You're welcome to submit issues and pull requests. Thanks.
+            </p>
+        </div>
     </div>
+</section>
+<section class="table-responsive container">
+    <header class="page-header">
+        <h2>Syllabus and Materials</h2>
+    </header>
     <table class="class-table table table-hover table-striped">
         <thead>
             <tr>
                 <th></th>
                 <th>Title</th>
+                <th>Covered Topics</th>
                 <th>Resources</th>
             </tr>
         </thead>
@@ -22,7 +51,29 @@
                     <td>
                         {{ class.title | default: "[TBA]" }}
                     </td>
-                    <td></td>
+                    <td>
+                        <ul>
+                            {% for topic in class.topics %}
+                                <li>{{ topic }}</li>
+                            {% endfor %}
+                        </ul>
+                    </td>
+                    <td>
+                        {% for resource in class.resources %}
+                            <section class="resource-section">
+                                <header>{{ resource[0] }}</header>
+                                <ul>
+                                    {% for item in resource[1] %}
+                                        <li>
+                                            <a href="{{ item.link }}" target="_blank">
+                                                {{ item.name }}
+                                            </a>
+                                        </li>
+                                    {% endfor %}
+                                </ul>
+                            </section>
+                        {% endfor %}
+                    </td>
                 </tr>
             {% endfor %}
         </tbody>
