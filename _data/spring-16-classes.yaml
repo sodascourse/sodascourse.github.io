@@ -77,12 +77,16 @@
         link: https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/
 
 - date: 3/17
+  title: UIKit and Common UI elements
 
 - date: 3/24
+  title: Foundation and App Structure
 
 - date: 3/31
 
 - date: 4/7
+  row-class: success
+  title: Midterm presentation of final team project proposals
 
 - date: 4/14
 
@@ -93,6 +97,8 @@
 - date: 5/5
 
 - date: 5/12
+  row-class: success
+  title: Midterm presentation of final team project progress review
 
 - date: 5/19
 
@@ -105,5 +111,7 @@
   title: Duanwu Festival | 端午節放假
 
 - date: 6/16
+  row-class: success
+  title: Final presentation of team projects
 
 - date: 6/23
