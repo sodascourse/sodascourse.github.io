@@ -54,9 +54,9 @@
     - Create a single view app
   resources:
     slides:
-      - name: Xcode and Storyboard - Print
-        link: /slides/spring-16/02-Storyboard.pdf
       - name: Xcode and Storyboard
+        link: /slides/spring-16/02-Storyboard.pdf
+      - name: Xcode and Storyboard - Print
         link: /slides/spring-16/02-Storyboard-Print.pdf
     playgrounds:
       - name: Swift Introduction
