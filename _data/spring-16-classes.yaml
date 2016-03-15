@@ -77,12 +77,50 @@
         link: https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/
 
 - date: 3/17
-  title: UIKit and Common UI elements
+  title: App Structure and UIKit
+  topics:
+    - Swift - Working with Cocoa and Objective-C APIs
+    - iOS App Lifecycle
+    - File System
+    - Introduction to View Controller and MVC Pattern
+    - Communiation Patterns - Delegation
+    - A simple code review from a homework 1 sample
+  resources:
+    slides:
+      - name: App Structure and UIKit
+        link: /slides/spring-16/03-App-Structure.pdf
+      - name: App Structure and UIKit - Print
+        link: /slides/spring-16/03-App-Structure-Print.pdf
+    playgrounds:
+      - name: swift-introduction/Objc-Bridge
+        link: https://github.com/sodascourse/swift-introduction
+    sample projects:
+      - name: uikit-intro/TextFieldDelegate
+        link: https://github.com/sodascourse/uikit-intro
+    extra reading:
+      - name: Using Swift with Cocoa and Objective-C
+        link: https://developer.apple.com/library/ios/documentation/Swift/Conceptual/BuildingCocoaApps/index.html#//apple_ref/doc/uid/TP40014216-CH2-ID0
+      - name: Strategies for Handling App State Transitions
+        link: https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/StrategiesforHandlingAppStateTransitions/StrategiesforHandlingAppStateTransitions.html#//apple_ref/doc/uid/TP40007072-CH8-SW1
+      - name: File System Programming Guide
+        link: https://developer.apple.com/library/ios/documentation/FileManagement/Conceptual/FileSystemProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40010672-CH1-SW1
+      - name: About asset catalogs
+        link: https://developer.apple.com/library/ios/recipes/xcode_help-image_catalog-1.0/chapters/Recipe.html#//apple_ref/doc/uid/TP40013303-CH1-SW1
+      - name: View Controller Programming Guide for iOS
+        link: https://developer.apple.com/library/ios/featuredarticles/ViewControllerPGforiPhoneOS/index.html#//apple_ref/doc/uid/TP40007457-CH2-SW1
+      - name: Communication Patterns
+        link: https://www.objc.io/issues/7-foundation/communication-patterns/
+      - name: Target-Action Communication Pattern
+        link: https://developer.apple.com/library/ios/documentation/General/Conceptual/CocoaEncyclopedia/Target-Action/Target-Action.html
+      - name: Delegates Communication Pattern
+        link: https://developer.apple.com/library/ios/documentation/General/Conceptual/CocoaEncyclopedia/DelegatesandDataSources/DelegatesandDataSources.html#//apple_ref/doc/uid/TP40010810-CH11-SW1
 
 - date: 3/24
-  title: Foundation and App Structure
+  title: "[TBA] Table View and Navigation Controller"
 
 - date: 3/31
+  row-class: success
+  title: Presentation of Human Interface Guideline
 
 - date: 4/7
   row-class: success
