@@ -97,6 +97,8 @@
     sample projects:
       - name: uikit-intro/TextFieldDelegate
         link: https://github.com/sodascourse/uikit-intro
+      - name: uikit-intro/AssetCatalogs
+        link: https://github.com/sodascourse/uikit-intro
     extra reading:
       - name: Using Swift with Cocoa and Objective-C
         link: https://developer.apple.com/library/ios/documentation/Swift/Conceptual/BuildingCocoaApps/index.html#//apple_ref/doc/uid/TP40014216-CH2-ID0
