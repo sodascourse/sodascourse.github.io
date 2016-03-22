@@ -118,7 +118,22 @@
         link: https://developer.apple.com/library/ios/documentation/General/Conceptual/CocoaEncyclopedia/DelegatesandDataSources/DelegatesandDataSources.html#//apple_ref/doc/uid/TP40010810-CH11-SW1
 
 - date: 3/24
-  title: "[TBA] Table View and Navigation Controller"
+  title: Table View and Navigation Controller
+  resources:
+    slides:
+      - name: Table View and Navigation Controller
+        link: /slides/spring-16/04-Table-Navigation.pdf
+      - name: Table View and Navigation Controller - Print
+        link: /slides/spring-16/04-Table-Navigation-Print.pdf
+    extra reading:
+      - name: UINavigationController reference
+        link: https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UINavigationController_Class/
+      - name: View Controller Catalog for iOS > Navigation Controllers
+        link: https://developer.apple.com/library/prerelease/ios/documentation/WindowsViews/Conceptual/ViewControllerCatalog/Chapters/NavigationControllers.html#//apple_ref/doc/uid/TP40011313-CH2-SW4
+      - name: View Controller Programming Guide for iOS > Using Segues
+        link: https://developer.apple.com/library/ios/featuredarticles/ViewControllerPGforiPhoneOS/UsingSegues.html#//apple_ref/doc/uid/TP40007457-CH15-SW1
+      - name: Table View Programming guide for iOS
+        link: https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/TableView_iPhone/AboutTableViewsiPhone/AboutTableViewsiPhone.html#//apple_ref/doc/uid/TP40007451-CH1-SW1
 
 - date: 3/31
   row-class: success
