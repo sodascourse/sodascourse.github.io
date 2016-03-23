@@ -130,6 +130,9 @@
         link: /slides/spring-16/04-Table-Navigation.pdf
       - name: Table View and Navigation Controller - Print
         link: /slides/spring-16/04-Table-Navigation-Print.pdf
+    sample projects:
+      - name: Airports
+        link: https://github.com/sodascourse/airport-list
     extra reading:
       - name: UINavigationController reference
         link: https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UINavigationController_Class/
