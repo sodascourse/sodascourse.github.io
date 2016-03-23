@@ -119,6 +119,11 @@
 
 - date: 3/24
   title: Table View and Navigation Controller
+  topics:
+    - Introduction to Storyboard Segues
+    - Navigation Controller
+    - Table View
+    - Property List
   resources:
     slides:
       - name: Table View and Navigation Controller
