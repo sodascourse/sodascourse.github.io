@@ -146,6 +146,16 @@
 - date: 3/31
   row-class: success
   title: Presentation of Human Interface Guideline
+  topics:
+    - UI Design Guideline
+    - iOS Human Interface Guideline
+  resources:
+    slides:
+      - name: UI Design Guideline
+        link: /slides/spring-16/05-UI-Design-Guideline.pdf
+    extra reading:
+      - name: iOS Human Interface Guideline
+        link: https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/
 
 - date: 4/7
   row-class: success
