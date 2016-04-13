@@ -162,6 +162,17 @@
   title: Midterm presentation of final team project proposals
 
 - date: 4/14
+  title: ARC & Open Source Packages
+  topics:
+    - Memory Management of Swift - ARC
+    - Xcode build process
+    - Using Open Source Packages with CocoaPods
+  resources:
+    slides:
+      - name: ARC & Open Source Packages
+        link: /slides/spring-16/06-ARC-Open-Source-Packages.pdf
+      - name: ARC & Open Source Packages - Print
+        link: /slides/spring-16/06-ARC-Open-Source-Packages-Print.pdf
 
 - date: 4/21
 
