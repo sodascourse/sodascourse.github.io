@@ -183,9 +183,9 @@
   resources:
     slides:
       - name: Auto Layout and Adaptivity
-        link: /slides/sprint-16/07-Auto-Layout-and-Adaptivity.pdf
+        link: /slides/spring-16/07-Auto-Layout-and-Adaptivity.pdf
       - name: Auto Layout and Adaptivity - Print
-        link: /slides/sprint-16/07-Auto-Layout-and-Adaptivity-Print.pdf
+        link: /slides/spring-16/07-Auto-Layout-and-Adaptivity-Print.pdf
     references:
       - name: Adaptivity and Size Changes - View Controller Programming Guide
         link: https://developer.apple.com/library/ios/featuredarticles/ViewControllerPGforiPhoneOS/TheAdaptiveModel.html#//apple_ref/doc/uid/TP40007457-CH19-SW1
