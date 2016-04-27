@@ -193,6 +193,36 @@
         link: https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/AutolayoutPG/index.html#//apple_ref/doc/uid/TP40010853-CH7-SW1
 
 - date: 4/28
+  title: Communication Patterns & Gesture Recognizers
+  topics:
+    - Responder Chain
+    - Communication Patterns - Notification, KVO, and callbacks
+    - Gesture Recognizers
+  resources:
+    slides:
+      - name: Communication Patterns
+        link: /slides/spring-16/08-Communication-Patterns.pdf
+      - name: Communication Patterns - Print
+        link: /slides/spring-16/08-Communication-Patterns-Print.pdf
+    sample projects:
+      - name: Gesture
+        link: https://github.com/sodascourse/gesture
+    homework:
+      - name: Homework 2 - MRT Stations
+        link: /slides/spring-16/hw2.pdf
+      - name: Homework 2 Assets
+        link: /assets/hw2.tar.bz2
+    references:
+      - name: objc.io - Communication Patterns
+        link: https://www.objc.io/issues/7-foundation/communication-patterns/
+      - name: iOS Developer Library - Notification Programming Topics
+        link: https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/Notifications/Introduction/introNotifications.html#//apple_ref/doc/uid/10000043-SW1
+      - name: NSHipster - NSNotification & NSNotificationCenter
+        link: http://nshipster.com/nsnotification-and-nsnotificationcenter/
+      - name: objc.io - Key Value Coding and Observing
+        link: https://www.objc.io/issues/7-foundation/key-value-coding-and-observing/
+      - name: NSHipster - Key-Value Observing
+        link: http://nshipster.com/key-value-observing/
 
 - date: 5/5
 
