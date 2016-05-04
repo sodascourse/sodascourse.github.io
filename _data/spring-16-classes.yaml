@@ -225,12 +225,33 @@
         link: http://nshipster.com/key-value-observing/
 
 - date: 5/5
+  title: Concurrency & Networking
+  topics:
+    - libdispatch
+    - HTTP concept
+    - Alamofire
+  resources:
+    slides:
+      - name: Concurrency & Networking
+        link: /slides/spring-16/09-Concurrency-Networking.pdf
+      - name: Concurrency & Networking - Print
+        link: /slides/spring-16/09-Concurrency-Networking-Print.pdf
+    sample projects:
+      - name: Async Tasks
+        link: https://github.com/sodascourse/async-tasks
+      - name: Star Repos
+        link: https://github.com/sodascourse/star-repos
+    playgrounds:
+      - name: Async Playground
+        link: https://github.com/sodascourse/async-playground
 
 - date: 5/12
   row-class: success
   title: Midterm presentation of final team project progress review
 
 - date: 5/19
+  row-class: warning
+  title: School Celebration Week | 校慶
 
 - date: 5/26
 
