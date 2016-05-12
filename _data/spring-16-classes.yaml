@@ -248,6 +248,18 @@
 - date: 5/12
   row-class: success
   title: Midterm presentation of final team project progress review
+  topics:
+    - Using LLDB Debugger
+    - Using Xcode Tests
+    - Using Instrument Profiler
+    - Using automation tools
+    - Brief introduction to Objective-C
+  resources:
+    slides:
+      - name: Brief Intro to Objective-C
+        link: /slides/spring-16/10-Brief-Intro-to-ObjectiveC.pdf
+      - name: Brief Intro to Objective-C - Print
+        link: /slides/spring-16/10-Brief-Intro-to-ObjectiveC-Print.pdf
 
 - date: 5/19
   row-class: warning
