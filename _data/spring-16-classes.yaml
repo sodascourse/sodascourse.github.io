@@ -266,6 +266,22 @@
   title: School Celebration Week | 校慶
 
 - date: 5/26
+  title: Swift 3.0, MapKit/CoreLocation, and CoreMotion
+  topics:
+    - the "swiftenv"
+    - MapKit and CoreLocation
+    - CoreMotion
+  resources:
+    slides:
+      - name: Swift 3.0 and swiftenv
+        link: /slides/spring-16/11-Swift-3-and-swiftenv.pdf
+      - name: Swift 3.0 and swiftenv - Print
+        link: /slides/spring-16/11-Swift-3-and-swiftenv-Print.pdf
+    sample projects:
+      - name: Location
+        link: https://github.com/sodascourse/location
+      - name: Motion Collector
+        link: https://github.com/sodascourse/motion-collector
 
 - date: 6/2
 
