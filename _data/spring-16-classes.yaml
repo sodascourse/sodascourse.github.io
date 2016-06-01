@@ -284,6 +284,13 @@
         link: https://github.com/sodascourse/motion-collector
 
 - date: 6/2
+  title: CoreGraphics Introduction
+  topics:
+    - Introduction to CoreGraphics
+  resources:
+    playgrounds:
+      - name: CoreGraphics Playground
+        link: https://github.com/sodascourse/coregraphics-playground
 
 - date: 6/9
   row-class: warning
