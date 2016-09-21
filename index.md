@@ -1,10 +1,12 @@
 ---
 ---
-# Course Materials
+# Mobile App Programming 2016F @ NCCU
+
+## Course Materials
 
 Sorry for that I am sick this week; the site would be ready next week and provide all the information of this class.
 
-## 9/22 Writing your first code
+### 9/22 Writing your first code
 
 - [Preface](https://www.icloud.com/keynote/0UokZsl4SPYCEMllvM5sopHpg)
 - [Introduction to  Computer and Programming](https://www.icloud.com/keynote/0BYKE4Z4ZId3s09im9SERVxag)
