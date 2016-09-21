@@ -17,4 +17,5 @@ Sorry for that I am sick this week; the site would be ready next week and provid
 
 ## Related links
 
+- [Feedback Form](https://goo.gl/forms/CvycJMCDewH02On22)
 - [Class 2016S](/archived/16s/index.html)
