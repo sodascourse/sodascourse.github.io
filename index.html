@@ -1,0 +1,36 @@
+---
+---
+<div class="row">
+    <div class="col-xs-12">
+        <div class="card">
+            <div class="card-block">
+                <h1 class="card-title">
+                    Mobile App Programming <small class="text-muted">@ NCCU 2016F</small>
+                </h1>
+            </div>
+            <div class="card-block">
+                <p class="card-text">
+                    This site is hosted via GitHub Pages, see
+                    <a href="https://github.com/sodascourse/sodascourse.github.io" target="_blank">
+                    sodascourse/sodascourse.github.io</a><br>
+                    Playgrounds and Sample projects are hosted via GitHub too, see
+                    <a href="https://github.com/sodascourse" target="_blank">sodascourse</a><br>
+                    You're welcome to submit issues and pull requests. Thanks.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    {% for item in site.data.index %}
+        <div class="col-sm-3">
+            <div class="card">
+                <div class="card-block">
+                    <h4 class="card-title">{{ item.title }}</h4>
+                    <p class="card-text">{{ item.text }}</p>
+                    <a href="{{ item.link }}" class="btn btn-outline-{{ item.link_style }}">{{ item.link_text }}</a>
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+</div>

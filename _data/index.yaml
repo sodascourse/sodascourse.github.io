@@ -1,0 +1,23 @@
+- title: Syllabus
+  text: "Schedule and content of this class, grouped by week"
+  link: syllabus.html
+  link_text: Go to page
+  link_style: primary
+
+- title: Class Content
+  text: "Content of this class, grouped by topics"
+  link: content.html
+  link_text: Go to page
+  link_style: primary
+
+- title: Homework
+  text: Personal Homework Assigned in this class
+  link: homework.html
+  link_text: Go to page
+  link_style: warning
+
+- title: Feedback forms
+  text: "Feedback about the class, materials, or any related things."
+  link: https://goo.gl/forms/CvycJMCDewH02On22
+  link_text: Feedback Form
+  link_style: success

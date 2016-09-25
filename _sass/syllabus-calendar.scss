@@ -1,0 +1,17 @@
+#syllabus-calendar-table {
+  thead {
+    th {
+      &:nth-child(1) { width: 7%; }
+      &:nth-child(2) { width: 23%; }
+      &:nth-child(3) { width: 35%; }
+      &:nth-child(4) { width: 35%; }
+    }
+  }
+  tbody {
+    th, td {
+      &:nth-child(2) {  // Title
+        font-weight: 700;
+      }
+    }
+  }
+}

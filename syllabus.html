@@ -1,0 +1,60 @@
+---
+scripts: syllabus.js
+stylesheet: syllabus.css
+---
+<section class="content-section">
+    <h1>Syllabus</h1>
+</section>
+<section class="content-section table-responsive">
+    <table id="syllabus-calendar-table" class="table table-striped">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Title</th>
+                <th>Topics</th>
+                <th>Resources</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for class in site.data.classes.syllabus %}
+                <tr data-date="{{ class.date }}">
+                    <th>{{ class.date }}</th>
+                    {% if class.title %}
+                        <th>
+                            {{ class.title }}
+                            {% if class.description %}
+                                <br>
+                                <small>{{ class.description }}</small>
+                            {% endif %}
+                        </th>
+                    {% else %}
+                        <td>[TBA]</td>
+                    {% endif %}
+                    <td>
+                        <ul>
+                            {% for topic in class.topics %}
+                                <li>{{ topic }}</li>
+                            {% endfor %}
+                        </ul>
+                    </td>
+                    <td>
+                        {% for resource_group in class.resources %}
+                            <section>
+                                <small>{{ resource_group.title }}</small>
+                                <ul>
+                                    {% for resource in resource_group.content %}
+                                        <li>
+                                            <a href="{{ resource.link }}" target="_blank">
+                                                {{ resource.name }}
+                                            </a>
+                                        </li>
+                                    {% endfor %}
+                                </ul>
+                            </section>
+                        {% endfor %}
+                    </td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</section>

@@ -3,6 +3,9 @@ defaults:
       path: ""
     values:
       layout: base
+      stylesheet: base.css
 
 sass:
   style: compressed
+
+semester: NCCU 2016F

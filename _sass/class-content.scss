@@ -1,0 +1,8 @@
+.class-content-categories {
+  margin: 20px 0;
+  padding-bottom: 10px;
+
+  &:not(:nth-last-child(1)) {
+    border-bottom: 1px solid #ddd;
+  }
+}

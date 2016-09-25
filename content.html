@@ -1,0 +1,28 @@
+---
+stylesheet: content.css
+---
+<section class="content-section">
+    <h1>Class Content</h1>
+</section>
+{% for category in site.data.classes.content %}
+<section class="content-section">
+    <header><h2>{{ category.name }}</h2></header>
+    <table class="content-table table table-striped">
+        <tbody>
+            {% for content in category.contents %}
+                <tr>
+                    <th>{{ content.name }}</th>
+                    <td>{{ content.description }}</td>
+                    <td>
+                        {% for resource in content.resources %}
+                            <a href="{{ resource.link }}" class="btn btn-outline-primary" target="_blank">
+                                {{ resource.name }}
+                            </a>
+                        {% endfor %}
+                    </td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</section>
+{% endfor %}

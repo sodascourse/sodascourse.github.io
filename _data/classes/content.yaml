@@ -1,0 +1,27 @@
+- name: Swift Topics
+  contents:
+    - name: Introduction to the Swift
+      resources:
+        - link: https://www.icloud.com/keynote/0I68ruGtrQCL8O0W8AbWK-2_A
+          name: Keynote Slides
+      description: Briefly introduction to the Swift language and how to decalare variables in Swift.
+- name: Introduction and Concept Topics
+  contents:
+    - name: Introduction to Computer and Programming
+      resources:
+        - link: https://www.icloud.com/keynote/0BYKE4Z4ZId3s09im9SERVxag
+          name: Keynote Slides
+      description: |
+        Introduction to how computer works. Including topics like CPU ISA, machine code, and assembly code,
+        high-level programming language. Also storage and operating systems.
+    - name: How to start making an iOS app
+      resources:
+        - link: https://www.icloud.com/keynote/0g9c7ft4ktjtuLq2cpRCF_yKw
+          name: Keynote Slides
+      description: Quickly go through Apple's platforms and history. And the process from idea into apps.
+- name: Class Announcements
+  contents:
+    - name: Preface
+      resources:
+        - link: https://www.icloud.com/keynote/0UokZsl4SPYCEMllvM5sopHpg
+          name: Keynote Slides

@@ -1,0 +1,35 @@
+<nav id="main-navbar" class="navbar navbar-fixed-top navbar-light bg-faded">
+    <button class="navbar-toggler hidden-sm-up" type="button"
+        data-toggle="collapse" data-target="#main-navbar-body"
+        aria-controls="main-navbar-body" aria-expanded="false" aria-label="Toggle navigation">
+        MAP <small class="text-muted">@ {{ site.semester }}</small>
+    </button>
+    <div class="container collapse navbar-toggleable-sm" id="main-navbar-body">
+        <a class="navbar-brand hidden-xs-down" href="/">
+            MAP <span class="text-muted">@ {{ site.semester }}</span>
+        </a>
+        <ul class="nav navbar-nav">
+            <li class="nav-item hidden-sm-up"><a class="nav-link" href="/">Home</a></li>
+            {% for navlink in site.data.navlinks %}
+                {% if page.name == navlink.link %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                    <a class="nav-link" href="{{ navlink.link }}">{{ navlink.name }}</a>
+                </li>
+            {% endfor %}
+        </ul>
+        <ul class="nav navbar-nav pull-sm-right">
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button"
+                    aria-haspopup="true" aria-expanded="false">Previous classes</a>
+                <div class="dropdown-menu">
+                    {% for archived in site.data.classes.archived %}
+                        <a class="dropdown-item" href="{{ archived.link }}" target="_blank">{{ archived.title }}</a>
+                    {% endfor %}
+                </div>
+            </li>
+        </ul>
+    </div>
+</nav>

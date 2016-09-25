@@ -1,0 +1,38 @@
+- date: 9/15
+  title: Moon Festival Holiday
+- date: 9/22
+  title: Writing your first code
+  description: Introduction to this class, computer science, and Apple's platform.
+  topics:
+    - Preface (Pre-Class Announcement)
+    - Introduction to Computer and Programming
+    - How to make an iOS app?
+    - Swift - Introduction to the Swift language
+    - Swift - Values and Variables
+  resources:
+    - title: Keynote slides
+      content:
+        - name: Preface
+          link: https://www.icloud.com/keynote/0UokZsl4SPYCEMllvM5sopHpg
+        - name: Introduction to  Computer and Programming
+          link: https://www.icloud.com/keynote/0BYKE4Z4ZId3s09im9SERVxag
+        - name: How to start making an iOS app
+          link: https://www.icloud.com/keynote/0g9c7ft4ktjtuLq2cpRCF_yKw
+        - name: Introduction to the Swift
+          link: https://www.icloud.com/keynote/0I68ruGtrQCL8O0W8AbWK-2_A
+- date: 9/29
+- date: 10/6
+- date: 10/13
+- date: 10/20
+- date: 10/27
+- date: 11/3
+- date: 11/10
+- date: 11/17
+- date: 11/24
+- date: 12/1
+- date: 12/8
+- date: 12/15
+- date: 12/22
+- date: 12/29
+- date: 1/5
+- date: 1/12
