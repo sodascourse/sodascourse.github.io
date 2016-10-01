@@ -5,7 +5,7 @@
         - link: https://www.icloud.com/keynote/0I68ruGtrQCL8O0W8AbWK-2_A
           name: Keynote Slides
       description: Briefly introduction to the Swift language and how to decalare variables in Swift.
-    - name: "Variables, Types, Functions, and Control Flows"
+    - name: "Variables, Types, and Functions"
       resources:
         - link: https://www.icloud.com/keynote/0qJpPuNvixtAs8Y7t69YAknkA
           name: Keynote Slides

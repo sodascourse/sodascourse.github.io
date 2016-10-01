@@ -21,7 +21,7 @@
         - name: Introduction to the Swift
           link: https://www.icloud.com/keynote/0I68ruGtrQCL8O0W8AbWK-2_A
 - date: 9/29
-  title: Introduction to Swift
+  title: Introduction to Swift - I
   description: Learn common programming components and data types in Swift
   topics:
     - Using Xcode Playground
@@ -30,14 +30,12 @@
     - Swift - Operators
     - Swift - Strings
     - Swift - Functions
-    - Swift - Control Flows
-    - Swift - Optionals
   resources:
     - title: Keynote Slides
       content:
         - name: Using Xcode Playground
           link: https://www.icloud.com/keynote/0KHVNwHUGqz07zSsh-93Nvb5A
-        - name: "Variables, Types, Functions, and Control Flows"
+        - name: "Variables, Types, and Functions"
           link: https://www.icloud.com/keynote/0qJpPuNvixtAs8Y7t69YAknkA
     - title: Playgrounds
       content:
@@ -46,6 +44,12 @@
         - name: Oven Panel.playground
           link: https://github.com/sodascourse/swift-introduction
 - date: 10/6
+  title: Introduction to Swift - II
+  description: Learn common programming components and data types in Swift
+  topics:
+    - Swift - Control Flows
+    - Swift - Optionals
+    - "[TBA]"
 - date: 10/13
 - date: 10/20
 - date: 10/27
