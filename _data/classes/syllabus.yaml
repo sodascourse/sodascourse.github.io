@@ -41,7 +41,7 @@
       content:
         - name: Swift-Introduction-Lite.playground
           link: https://github.com/sodascourse/swift-introduction
-        - name: Oven Panel.playground
+        - name: "Practice: Oven Panel.playground"
           link: https://github.com/sodascourse/swift-introduction
 - date: 10/6
   title: Introduction to Swift - II
