@@ -22,7 +22,7 @@
           link: https://www.icloud.com/keynote/0I68ruGtrQCL8O0W8AbWK-2_A
 - date: 9/29
   title: Introduction to Swift - I
-  description: Learn common programming components and data types in Swift
+  description: Learn common programming components and data types in Swift (Variables and Functions)
   topics:
     - Using Xcode Playground
     - Swift - Comments and Literals
@@ -45,22 +45,53 @@
           link: https://github.com/sodascourse/swift-introduction
 - date: 10/6
   title: Introduction to Swift - II
-  description: Learn common programming components and data types in Swift
+  description: |
+    Learn common programming components and data types in Swift
+    (Control Flow, Optionals, Error Handling, and Collections)
   topics:
     - Swift - Control Flows
     - Swift - Optionals
-    - "[TBA]"
+    - Swift - Error Handling
+    - Swift - Collections
+    - Swift - Generics
+  resources:
+    - title: Playgrounds
+      content:
+        - name: Swift-Introduction-Lite.playground
+          link: https://github.com/sodascourse/swift-introduction
+        - name: "Practice: Oven Panel.playground"
+          link: https://github.com/sodascourse/swift-introduction
 - date: 10/13
+  title: Introduction to Swift - III
+  description: Learn OOP (Object-Oriented Programming) and POP (Protocol-Oriented Programming) in Swift
+  topics:
+    - Object-Oriented Programming and Protocol-Oriented Programming
+    - Swift - Enumerations (Enum)
+    - "Swift - Structures, with Properties, Methods, and Optional Chaining"
+    - "Swift - Classes, with Type casting and Inheritance"
+    - Swift - Protocols and Extensions
 - date: 10/20
+  title: Introduction to Swift - IV
+  description: Learn Closures and misc basic topics in Swift
+  topics:
+    - Swift - Access Control
+    - Swift - Closures
+    - "Swift - ARC, Automatic Reference Counting"
 - date: 10/27
+  title: Final-Project Proposal Presentation
+  topics:
+    - Using git and GitHub
+    - "[Recap and Buffer of Swift Introduction series]"
 - date: 11/3
 - date: 11/10
 - date: 11/17
 - date: 11/24
 - date: 12/1
+  title: Midterm Progress Report of Final-Project
 - date: 12/8
 - date: 12/15
 - date: 12/22
 - date: 12/29
 - date: 1/5
 - date: 1/12
+  title: Final-Project Presentation and Demo
