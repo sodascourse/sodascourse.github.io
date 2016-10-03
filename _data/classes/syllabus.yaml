@@ -43,17 +43,22 @@
           link: https://github.com/sodascourse/swift-introduction
         - name: "Practice: Oven Panel.playground"
           link: https://github.com/sodascourse/swift-introduction
+    - title: Blog posts
+      content:
+        - name: Parameter Names and Argument Labels in functions of Swift
+          link: "https://medium.com/@sodastsai/parameter-names-and-argument-labels-in-functions-of-swift-9c6b37a2af73#.9w3ty4tv1"
 - date: 10/6
   title: Introduction to Swift - II
   description: |
     Learn common programming components and data types in Swift
-    (Control Flow, Optionals, Error Handling, and Collections)
+    (Control Flow, Optionals and Collections)
   topics:
     - Swift - Control Flows
     - Swift - Optionals
-    - Swift - Error Handling
     - Swift - Collections
-    - Swift - Generics
+    - Swift - Generics (Part I)
+    - Swift - Closures
+    - How to find references in documentations
   resources:
     - title: Playgrounds
       content:
@@ -75,7 +80,7 @@
   description: Learn Closures and misc basic topics in Swift
   topics:
     - Swift - Access Control
-    - Swift - Closures
+    - Swift - Error Handling
     - "Swift - ARC, Automatic Reference Counting"
 - date: 10/27
   title: Final-Project Proposal Presentation

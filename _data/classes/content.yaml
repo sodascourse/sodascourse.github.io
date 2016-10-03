@@ -17,6 +17,10 @@
         - link: https://github.com/sodascourse/swift-introduction
           name: "Playground: Oven Panel"
       description: A playground which asks you to write simple function to fix an oven panel.
+    - name: Blog Posts
+      resources:
+        - name: Parameter Names and Argument Labels in functions of Swift
+          link: "https://medium.com/@sodastsai/parameter-names-and-argument-labels-in-functions-of-swift-9c6b37a2af73#.9w3ty4tv1"
 - name: Developer Tools
   contents:
     - name: Using Xcode Playground
