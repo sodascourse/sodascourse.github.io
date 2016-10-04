@@ -60,11 +60,17 @@
     - Swift - Closures
     - How to find references in documentations
   resources:
+    - title: Keynote Slides
+      content:
+        - name: Reference to Documentations
+          link: https://www.icloud.com/keynote/0yKvDb94Es8wphUA5Zi2ZU5HQ
+        - name: "Control Flows, Optionals, Collections, and Closures"
+          link: https://www.icloud.com/keynote/0PODND4TLSqOdax64kRdOqHaQ
     - title: Playgrounds
       content:
         - name: Swift-Introduction-Lite.playground
           link: https://github.com/sodascourse/swift-introduction
-        - name: "Practice: Oven Panel.playground"
+        - name: "Practice: Book Store.playground"
           link: https://github.com/sodascourse/swift-introduction
 - date: 10/13
   title: Introduction to Swift - III

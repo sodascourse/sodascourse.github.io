@@ -6,26 +6,34 @@
           name: Keynote Slides
       description: Briefly introduction to the Swift language and how to decalare variables in Swift.
     - name: "Variables, Types, and Functions"
+      description: Introduce common programming concept with Swift
       resources:
         - link: https://www.icloud.com/keynote/0qJpPuNvixtAs8Y7t69YAknkA
           name: Keynote Slides
         - link: https://github.com/sodascourse/swift-introduction
           name: "Playground: Swift-Introduction-Lite"
-      description: Introduce common programming concept with Swift
-    - name: Oven Panel
-      resources:
         - link: https://github.com/sodascourse/swift-introduction
-          name: "Playground: Oven Panel"
-      description: A playground which asks you to write simple function to fix an oven panel.
-    - name: Blog Posts
-      resources:
-        - name: Parameter Names and Argument Labels in functions of Swift
+          name: "Practice: Oven Panel.playground"
+        - name: "Blog post: Argument Labels in functions"
           link: "https://medium.com/@sodastsai/parameter-names-and-argument-labels-in-functions-of-swift-9c6b37a2af73#.9w3ty4tv1"
+    - name: "Control Flows, Optionals, Collections, and Closures"
+      description: Introduce common programming concept with Swift
+      resources:
+        - link: https://www.icloud.com/keynote/0PODND4TLSqOdax64kRdOqHaQ
+          name: Keynote Slides
+        - link: https://github.com/sodascourse/swift-introduction
+          name: "Playground: Swift-Introduction-Lite"
+        - link: https://github.com/sodascourse/swift-introduction
+          name: "Practice: Book Store.playground"
 - name: Developer Tools
   contents:
     - name: Using Xcode Playground
       resources:
         - link: https://www.icloud.com/keynote/0KHVNwHUGqz07zSsh-93Nvb5A
+          name: Keynote Slides
+    - name: Reference to Documentations
+      resources:
+        - link: https://www.icloud.com/keynote/0yKvDb94Es8wphUA5Zi2ZU5HQ
           name: Keynote Slides
 - name: Introduction and Concept Topics
   contents:
