@@ -21,16 +21,33 @@
         </div>
     </div>
 </div>
-<div class="row">
-    {% for item in site.data.index %}
-        <div class="col-sm-3">
-            <div class="card">
-                <div class="card-block">
-                    <h4 class="card-title">{{ item.title }}</h4>
-                    <p class="card-text">{{ item.text }}</p>
-                    <a href="{{ item.link }}" class="btn btn-outline-{{ item.link_style }}">{{ item.link_text }}</a>
+{% assign card_width = 3 %}
+{% assign card_columns_count = 12 | divided_by: card_width %}
+{% assign card_rows_count = site.data.index.size | divided_by: card_columns_count %}
+{% assign card_rows_remainder = site.data.index.size | modulo: card_columns_count %}
+{% if card_rows_remainder != 0 %}
+    {% assign card_rows_count = card_rows_count | plus: 1 %}
+{% endif %}
+{% for row_idx_1 in (1..card_rows_count) %}
+    <div class="row">
+        {% for column_idx_1 in (1..card_columns_count) %}
+            {% assign card_index = row_idx_1 | minus: 1 | times: card_columns_count | plus: column_idx_1 | minus: 1 %}
+            {% if card_index >= site.data.index.size %}
+                {% continue %}
+            {% endif %}
+            {% assign item = site.data.index[card_index] %}
+            <div class="col-sm-{{ card_width }}">
+                <div class="card">
+                    <div class="card-block">
+                        <h4 class="card-title">{{ item.title }}</h4>
+                        <p class="card-text">{{ item.text }}</p>
+                        <a href="{{ item.link }}" class="btn btn-outline-{{ item.link_style }}"
+                            target="{{ item.link_target | default: '_self' }}">
+                            {{ item.link_text }}
+                        </a>
+                    </div>
                 </div>
             </div>
-        </div>
-    {% endfor %}
-</div>
+        {% endfor %}
+    </div>
+{% endfor %}
