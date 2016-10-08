@@ -51,16 +51,15 @@
   title: Introduction to Swift - II
   description: |
     Learn common programming components and data types in Swift
-    (Control Flows, Optionals and Collections)
+    (Control Flows and Optionals)
   topics:
     - Swift - Control Flows
     - Swift - Optionals
-    - Swift - Collections
     - How to find references in documentations
   resources:
     - title: Keynote Slides
       content:
-        - name: "Control Flows, Optionals, and Collections"
+        - name: Control Flows and Optionals
           link: https://www.icloud.com/keynote/0PODND4TLSqOdax64kRdOqHaQ
         - name: Reference to Documentations
           link: https://www.icloud.com/keynote/0yKvDb94Es8wphUA5Zi2ZU5HQ
@@ -68,32 +67,53 @@
       content:
         - name: Swift-Introduction-Lite.playground
           link: https://github.com/sodascourse/swift-introduction
-        - name: "Practice: Book Store.playground"
-          link: https://github.com/sodascourse/swift-introduction
 - date: 10/13
   title: Introduction to Swift - III
-  description: Learn OOP (Object-Oriented Programming) and POP (Protocol-Oriented Programming) in Swift
+  description: "Learn Collections, OOP with Structs, and Enums in Swift"
   topics:
-    - Object-Oriented Programming and Protocol-Oriented Programming
+    - Swift - Collections
+    - Object-Oriented Programming
+    - "Swift - Structures, with Properties, Methods, Optional Chaining, and Access Control"
     - Swift - Enumerations (Enum)
-    - "Swift - Structures, with Properties, Methods, and Optional Chaining"
-    - "Swift - Classes, with Type casting and Inheritance"
-    - Swift - Protocols and Extensions
+  resources:
+    - title: Playgrounds
+      content:
+        - name: Swift-Introduction-Lite.playground
+          link: https://github.com/sodascourse/swift-introduction
+        - name: "Practice: Book Store.playground"
+          link: https://github.com/sodascourse/swift-introduction
 - date: 10/20
   title: Introduction to Swift - IV
-  description: Learn Closures and misc basic topics in Swift
+  description: "Learn Classes, Protocols, Extensions, and Closures in Swift"
   topics:
-    - Swift - Access Control
-    - Swift - Error Handling
-    - Swift - Generics
-    - Swift - Closures
+    - "Swift - Classes, with Type casting and Inheritance"
+    - Protocol-Oriented Programming
+    - Swift - Protocols and Extensions
     - "Swift - ARC, Automatic Reference Counting"
+    - Swift - Closures
+  resources:
+    - title: Playgrounds
+      content:
+        - name: Swift-Introduction-Lite.playground
+          link: https://github.com/sodascourse/swift-introduction
 - date: 10/27
   title: Final-Project Proposal Presentation
+  description: Proposal presentation and learn misc topics in Swift
   topics:
+    - Swift - Error Handling
+    - Swift - Generics
     - Using git and GitHub
-    - "[Recap and Buffer of Swift Introduction series]"
+  resources:
+    - title: Playgrounds
+      content:
+        - name: Swift-Introduction-Lite.playground
+          link: https://github.com/sodascourse/swift-introduction
 - date: 11/3
+  title: Writing your first iOS app
+  topics:
+    - "[Buffer for Swift topics]"
+    - "Introduction to the CocoaTouch Frameworks: Foundation and UIKit"
+    - Using Xcode Storyboard
 - date: 11/10
 - date: 11/17
 - date: 11/24
