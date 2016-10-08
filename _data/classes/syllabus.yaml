@@ -97,7 +97,7 @@
         - name: Swift-Introduction-Lite.playground
           link: https://github.com/sodascourse/swift-introduction
 - date: 10/27
-  title: Final-Project Proposal Presentation
+  title: Introduction to Swift - V <small>and</small> Final-Project Proposal Presentation
   description: Proposal presentation and learn misc topics in Swift
   topics:
     - Swift - Error Handling
