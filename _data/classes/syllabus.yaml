@@ -80,7 +80,11 @@
       content:
         - name: Swift-Introduction-Lite.playground
           link: https://github.com/sodascourse/swift-introduction
-        - name: "Practice: Book Store.playground"
+    - title: "Homework 1: Book Store"
+      content:
+        - name: Keynote Slides
+          link: https://www.icloud.com/keynote/02oR_edzyiOiby2w85aIcOr8g
+        - name: "Book Store.playground"
           link: https://github.com/sodascourse/swift-introduction
 - date: 10/20
   title: Introduction to Swift - IV

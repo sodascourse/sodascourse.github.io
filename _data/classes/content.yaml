@@ -47,6 +47,16 @@
         - link: https://www.icloud.com/keynote/0g9c7ft4ktjtuLq2cpRCF_yKw
           name: Keynote Slides
       description: Quickly go through Apple's platforms and history. And the process from idea into apps.
+- name: Homework
+  contents:
+    - name: Book Store
+      description: |
+        <strong>Deadline @ 2016 10/26 11:59 PM.</strong> Practice about Swift functions, collections, and optionals.
+      resources:
+        - name: Keynote Slides
+          link: https://www.icloud.com/keynote/02oR_edzyiOiby2w85aIcOr8g
+        - name: "Book Store.playground"
+          link: https://github.com/sodascourse/swift-introduction
 - name: Class Announcements
   contents:
     - name: Preface

@@ -10,12 +10,6 @@
   link_text: Go to page
   link_style: primary
 
-- title: Homework
-  text: Personal Homework Assigned in this class
-  link: homework.html
-  link_text: Go to page
-  link_style: warning
-
 - title: Slack
   text: |
     Join and discuss about questions on the Slack. <a href="https://goo.gl/forms/K4lsvFzALWPkLPTk2" target="_blank">Get invitation</a>.
