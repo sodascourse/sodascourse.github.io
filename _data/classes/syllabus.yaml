@@ -69,12 +69,12 @@
           link: https://github.com/sodascourse/swift-introduction
 - date: 10/13
   title: Introduction to Swift - III
-  description: "Learn Collections, OOP with Structs, and Enums in Swift"
+  description: "Learn Collections, Enums, Error Handling, and Closures in Swift"
   topics:
     - Swift - Collections
-    - Object-Oriented Programming
-    - "Swift - Structures, with Properties, Methods, Optional Chaining, and Access Control"
     - Swift - Enumerations (Enum)
+    - Swift - Error Handling
+    - Swift - Closures
   resources:
     - title: Playgrounds
       content:
@@ -84,13 +84,12 @@
           link: https://github.com/sodascourse/swift-introduction
 - date: 10/20
   title: Introduction to Swift - IV
-  description: "Learn Classes, Protocols, Extensions, and Closures in Swift"
+  description: "Learn Structs, Classes, Protocols, and Extensions in Swift"
   topics:
+    - Object-Oriented Programming and Protocol-Oriented Programming
+    - "Swift - Structures, with Properties, Methods, Optional Chaining, and Access Control"
     - "Swift - Classes, with Type casting and Inheritance"
-    - Protocol-Oriented Programming
     - Swift - Protocols and Extensions
-    - "Swift - ARC, Automatic Reference Counting"
-    - Swift - Closures
   resources:
     - title: Playgrounds
       content:
@@ -100,7 +99,7 @@
   title: Introduction to Swift - V <small>and</small> Final-Project Proposal Presentation
   description: Proposal presentation and learn misc topics in Swift
   topics:
-    - Swift - Error Handling
+    - "Swift - ARC, Automatic Reference Counting"
     - Swift - Generics
     - Using git and GitHub
   resources:
