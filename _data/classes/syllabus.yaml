@@ -69,12 +69,11 @@
           link: https://github.com/sodascourse/swift-introduction
 - date: 10/13
   title: Introduction to Swift - III
-  description: "Learn Collections, Enums, Error Handling, and Closures in Swift"
+  description: "Learn Collections, Enums, and Error Handling in Swift"
   topics:
     - Swift - Collections
     - Swift - Enumerations (Enum)
     - Swift - Error Handling
-    - Swift - Closures
   resources:
     - title: Keynote Slides
       content:
@@ -105,9 +104,10 @@
           link: https://github.com/sodascourse/swift-introduction
 - date: 10/27
   title: Introduction to Swift - V
-  description: "Learn ARC and Generics in Swift. Try to use git."
+  description: "Learn ARC, Closures, and Generics in Swift. Try to use git."
   topics:
     - "Swift - ARC, Automatic Reference Counting"
+    - Swift - Closures
     - Swift - Generics
     - Using git and GitHub
   resources:
