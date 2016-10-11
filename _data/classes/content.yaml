@@ -23,6 +23,11 @@
           name: Keynote Slides
         - link: https://github.com/sodascourse/swift-introduction
           name: "Playground: Swift-Introduction-Lite"
+    - name: "Collections, Enums, and Error Handling"
+      description: Introduce common programming concept with Swift
+      resources:
+        - link: https://www.icloud.com/keynote/0wjOfP9xWujtYQ7tQhCeGv7hQ
+          name: Keynote Slides
 - name: Developer Tools
   contents:
     - name: Using Xcode Playground

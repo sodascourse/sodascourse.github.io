@@ -76,6 +76,10 @@
     - Swift - Error Handling
     - Swift - Closures
   resources:
+    - title: Keynote Slides
+      content:
+        - name: "Collections, Enums, and Error Handling"
+          link: https://www.icloud.com/keynote/0wjOfP9xWujtYQ7tQhCeGv7hQ
     - title: Playgrounds
       content:
         - name: Swift-Introduction-Lite.playground
