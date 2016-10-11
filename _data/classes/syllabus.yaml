@@ -100,8 +100,8 @@
         - name: Swift-Introduction-Lite.playground
           link: https://github.com/sodascourse/swift-introduction
 - date: 10/27
-  title: Introduction to Swift - V <small>and</small> Final-Project Proposal Presentation
-  description: Proposal presentation and learn misc topics in Swift
+  title: Introduction to Swift - V
+  description: "Learn ARC and Generics in Swift. Try to use git."
   topics:
     - "Swift - ARC, Automatic Reference Counting"
     - Swift - Generics
@@ -112,17 +112,16 @@
         - name: Swift-Introduction-Lite.playground
           link: https://github.com/sodascourse/swift-introduction
 - date: 11/3
-  title: Writing your first iOS app
+  title: Writing your first iOS app <small>and</small> Final-Project Proposal Presentation
   topics:
-    - "[Buffer for Swift topics]"
     - "Introduction to the CocoaTouch Frameworks: Foundation and UIKit"
     - Using Xcode Storyboard
 - date: 11/10
 - date: 11/17
 - date: 11/24
 - date: 12/1
-  title: Midterm Progress Report of Final-Project
 - date: 12/8
+  title: Midterm Progress Report of Final-Project
 - date: 12/15
 - date: 12/22
 - date: 12/29
