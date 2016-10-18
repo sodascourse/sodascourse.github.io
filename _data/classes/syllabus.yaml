@@ -69,15 +69,14 @@
           link: https://github.com/sodascourse/swift-introduction
 - date: 10/13
   title: Introduction to Swift - III
-  description: "Learn Collections, Enums, and Error Handling in Swift"
+  description: "Learn Collections and Enums in Swift"
   topics:
     - Swift - Collections
     - Swift - Enumerations (Enum)
-    - Swift - Error Handling
   resources:
     - title: Keynote Slides
       content:
-        - name: "Collections, Enums, and Error Handling"
+        - name: "Collections, and Enums"
           link: https://www.icloud.com/keynote/0wjOfP9xWujtYQ7tQhCeGv7hQ
     - title: Playgrounds
       content:
@@ -91,12 +90,11 @@
           link: https://github.com/sodascourse/swift-introduction
 - date: 10/20
   title: Introduction to Swift - IV
-  description: "Learn Structs, Classes, Protocols, and Extensions in Swift"
+  description: "Learn Error Handling and Closures in Swift. Try to use git SCM."
   topics:
-    - Object-Oriented Programming and Protocol-Oriented Programming
-    - "Swift - Structures, with Properties, Methods, Optional Chaining, and Access Control"
-    - "Swift - Classes, with Type casting and Inheritance"
-    - Swift - Protocols and Extensions
+    - Swift - Error Handling
+    - Swift - Closures
+    - Using git and GitHub
   resources:
     - title: Playgrounds
       content:
@@ -104,12 +102,13 @@
           link: https://github.com/sodascourse/swift-introduction
 - date: 10/27
   title: Introduction to Swift - V
-  description: "Learn ARC, Closures, and Generics in Swift. Try to use git."
+  description: "Learn Structs, Classes, Protocols, Extensions, and ARC in Swift."
   topics:
+    - Object-Oriented Programming and Protocol-Oriented Programming
+    - "Swift - Structures, with Properties, Methods, Optional Chaining, and Access Control"
+    - "Swift - Classes, with Type casting and Inheritance"
+    - Swift - Protocols and Extensions
     - "Swift - ARC, Automatic Reference Counting"
-    - Swift - Closures
-    - Swift - Generics
-    - Using git and GitHub
   resources:
     - title: Playgrounds
       content:
