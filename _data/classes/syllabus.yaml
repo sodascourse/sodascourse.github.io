@@ -76,7 +76,7 @@
   resources:
     - title: Keynote Slides
       content:
-        - name: "Collections, and Enums"
+        - name: Collections and Enums
           link: https://www.icloud.com/keynote/0wjOfP9xWujtYQ7tQhCeGv7hQ
     - title: Playgrounds
       content:
@@ -96,6 +96,12 @@
     - Swift - Closures
     - Using git and GitHub
   resources:
+    - title: Keynote Slides
+      content:
+        - name: Error Handling and Closures
+          link: https://www.icloud.com/keynote/0MFyjfWqSRXd3w1qJ6ZL6pLCg
+        - name: Using git and GitHub
+          link: https://www.icloud.com/keynote/0z08zIA3IAxpRr_dr8DQSXvDg
     - title: Playgrounds
       content:
         - name: Swift-Introduction-Lite.playground
