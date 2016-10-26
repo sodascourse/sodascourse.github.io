@@ -108,24 +108,34 @@
           link: https://github.com/sodascourse/swift-introduction
 - date: 10/27
   title: Introduction to Swift - V
-  description: "Learn Structs, Classes, Protocols, Extensions, and ARC in Swift."
+  description: "Learn Structs and Classes in Swift."
   topics:
-    - Object-Oriented Programming and Protocol-Oriented Programming
-    - "Swift - Structures, with Properties, Methods, Optional Chaining, and Access Control"
-    - "Swift - Classes, with Type casting and Inheritance"
-    - Swift - Protocols and Extensions
-    - "Swift - ARC, Automatic Reference Counting"
+    - Object-Oriented Programming
+    - "Swift - Structures, with Properties and Methods"
+    - "Swift - Classes, with Inheritance"
   resources:
+    - title: Keynote Slides
+      content:
+        - name: Structures and Classes
+          link: https://www.icloud.com/keynote/0N0YzWWWT8H2WhuTkA6pqiB_A
     - title: Playgrounds
       content:
         - name: Swift-Introduction-Lite.playground
           link: https://github.com/sodascourse/swift-introduction
 - date: 11/3
+  title: Introduction to Swift - VI
+  description: "Learn Protocols, Extensions, and ARC in Swift."
+  topics:
+    - Protocol-Oriented Programming
+    - Swift - Protocols and Extensions
+    - Swift - Type casting and Optional Chaining
+    - Swift - Access control of classes
+    - "Swift - ARC, Automatic Reference Counting"
+- date: 11/10
   title: Writing your first iOS app <small>and</small> Final-Project Proposal Presentation
   topics:
     - "Introduction to the CocoaTouch Frameworks: Foundation and UIKit"
     - Using Xcode Storyboard
-- date: 11/10
 - date: 11/17
 - date: 11/24
 - date: 12/1
