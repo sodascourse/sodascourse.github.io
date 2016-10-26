@@ -108,15 +108,16 @@
           link: https://github.com/sodascourse/swift-introduction
 - date: 10/27
   title: Introduction to Swift - V
-  description: "Learn Structs and Classes in Swift."
+  description: "Learn Structs, Classes, and Extensions in Swift."
   topics:
     - Object-Oriented Programming
     - "Swift - Structures, with Properties and Methods"
     - "Swift - Classes, with Inheritance"
+    - Swift - Extensions
   resources:
     - title: Keynote Slides
       content:
-        - name: Structures and Classes
+        - name: Structures, Classes, and Extensions
           link: https://www.icloud.com/keynote/0N0YzWWWT8H2WhuTkA6pqiB_A
     - title: Playgrounds
       content:
@@ -124,10 +125,10 @@
           link: https://github.com/sodascourse/swift-introduction
 - date: 11/3
   title: Introduction to Swift - VI
-  description: "Learn Protocols, Extensions, and ARC in Swift."
+  description: Learn Protocols and ARC in Swift.
   topics:
     - Protocol-Oriented Programming
-    - Swift - Protocols and Extensions
+    - Swift - Protocols
     - Swift - Type casting and Optional Chaining
     - Swift - Access control of classes
     - "Swift - ARC, Automatic Reference Counting"

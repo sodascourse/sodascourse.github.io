@@ -33,7 +33,7 @@
       resources:
         - link: https://www.icloud.com/keynote/0MFyjfWqSRXd3w1qJ6ZL6pLCg
           name: Keynote Slides
-    - name: Structures and Classes
+    - name: "Structures, Classes, and Extensions"
       description: Introduce common programming concept with Swift
       resources:
         - link: https://www.icloud.com/keynote/0N0YzWWWT8H2WhuTkA6pqiB_A
