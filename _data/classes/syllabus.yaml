@@ -132,6 +132,15 @@
     - Swift - Type casting and Optional Chaining
     - Swift - Access control of classes
     - "Swift - ARC, Automatic Reference Counting"
+  resources:
+    - title: Keynote Slides
+      content:
+        - name: Protocols and misc OOP topics
+          link: https://www.icloud.com/keynote/0K-khHespH7iZ6iRgDX-gtg4g
+    - title: Playgrounds
+      content:
+        - name: Swift-Introduction-Lite.playground
+          link: https://github.com/sodascourse/swift-introduction
 - date: 11/10
   title: Writing your first iOS app <small>and</small> Final-Project Proposal Presentation
   topics:

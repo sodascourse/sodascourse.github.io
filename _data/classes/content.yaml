@@ -38,6 +38,11 @@
       resources:
         - link: https://www.icloud.com/keynote/0N0YzWWWT8H2WhuTkA6pqiB_A
           name: Keynote Slides
+    - name: Protocols and misc OOP topics
+      description: Introduce common programming concept with Swift
+      resources:
+        - link: https://www.icloud.com/keynote/0K-khHespH7iZ6iRgDX-gtg4g
+          name: Keynote Slides
 - name: Developer Tools
   contents:
     - name: Using Xcode Playground
