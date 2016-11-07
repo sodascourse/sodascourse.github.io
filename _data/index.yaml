@@ -24,3 +24,10 @@
   link_text: Feedback Form
   link_style: success
   link_target: _blank
+
+- title: Team Composition forms
+  text: "Fill form to register your team of the final project"
+  link: https://goo.gl/forms/hZHSCwON2JprUvjV2
+  link_text: Application Form
+  link_style: success
+  link_target: _blank
