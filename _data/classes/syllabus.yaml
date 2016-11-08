@@ -144,8 +144,27 @@
 - date: 11/10
   title: Writing your first iOS app <small>and</small> Final-Project Proposal Presentation
   topics:
-    - "Introduction to the CocoaTouch Frameworks: Foundation and UIKit"
+    - "Introduction to the CocoaTouch Frameworks: UIKit"
     - Using Xcode Storyboard
+  resources:
+    - title: Keynote Slides
+      content:
+        - name: Making my first iOS app
+          link: https://www.icloud.com/keynote/0zj4rpeMhINlMigmiGieGbyMg
+    - title: Sample Projects
+      content:
+        - name: Calculator
+          link: https://github.com/sodascourse/calculator
+    - title: "Homework 2: Calculator"
+      content:
+        - name: Keynote Slides
+          link: https://www.icloud.com/keynote/0nz03wWkJDtyyjMS9_L_drW2g
+        - name: Calculator Demo (Simple Version)
+          link: https://github.com/sodascourse/calculator
+    - title: References
+      content:
+        - name: Start Developing iOS Apps (Swift)
+          link: https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/
 - date: 11/17
 - date: 11/24
 - date: 12/1

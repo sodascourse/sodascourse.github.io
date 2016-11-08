@@ -43,6 +43,15 @@
       resources:
         - link: https://www.icloud.com/keynote/0K-khHespH7iZ6iRgDX-gtg4g
           name: Keynote Slides
+- name: iOS SDK Topics
+  contents:
+    - name: Introduction to the Storyboard
+      resources:
+        - name: Making my first iOS app (Slides)
+          link: https://www.icloud.com/keynote/0zj4rpeMhINlMigmiGieGbyMg
+        - name: Calculator (App Demo)
+          link: https://github.com/sodascourse/calculator
+      description: Create outlet and actions in Storyboard
 - name: Developer Tools
   contents:
     - name: Using Xcode Playground
@@ -81,6 +90,14 @@
           link: https://www.icloud.com/keynote/02oR_edzyiOiby2w85aIcOr8g
         - name: "Book Store.playground"
           link: https://github.com/sodascourse/swift-introduction
+    - name: Calculator
+      description: |
+        <strong>Deadline @ 2016 11/23 11:59 PM.</strong> Practice about Storyboard.
+      resources:
+        - name: Keynote Slides
+          link: https://www.icloud.com/keynote/0nz03wWkJDtyyjMS9_L_drW2g
+        - name: Calculator Demo (Simple Version)
+          link: https://github.com/sodascourse/calculator
 - name: Class Announcements
   contents:
     - name: Preface
