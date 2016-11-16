@@ -166,6 +166,21 @@
         - name: Start Developing iOS Apps (Swift)
           link: https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/
 - date: 11/17
+  title: Target-Action pattern <small>and</small> iOS Human Interface Guidelines
+  topics:
+    - View Geometry and Target-action pattern
+    - iOS Human Interface Guidelines
+  resources:
+    - title: Keynote Slides
+      content:
+        - name: View Geometry & Target-Action Controls
+          link: https://www.icloud.com/keynote/0NpL5r5N1eyxbcWyfXTEFZn1Q
+        - name: iOS Human Interface Guidelines
+          link: https://www.icloud.com/keynote/0Ab6ns7qXgl_-rf19fbxi-E6g
+    - title: Apple Guidelines
+      content:
+        - name: iOS Human Interface Guidelines
+          link: https://developer.apple.com/ios/human-interface-guidelines
 - date: 11/24
 - date: 12/1
 - date: 12/8

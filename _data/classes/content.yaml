@@ -45,13 +45,23 @@
           name: Keynote Slides
 - name: iOS SDK Topics
   contents:
-    - name: Introduction to the Storyboard
+    - name: Introduction to the Storyboard (with Calculator)
       resources:
-        - name: Making my first iOS app (Slides)
+        - name: Keynote Slides
           link: https://www.icloud.com/keynote/0zj4rpeMhINlMigmiGieGbyMg
-        - name: Calculator (App Demo)
+        - name: App Demo
           link: https://github.com/sodascourse/calculator
       description: Create outlet and actions in Storyboard
+    - name: View Geometry & Target-Action Controls
+      resources:
+        - name: Keynote Slides
+          link: https://www.icloud.com/keynote/0NpL5r5N1eyxbcWyfXTEFZn1Q
+    - name: iOS Human Interface Guidelines
+      resources:
+        - name: Keynote Slides
+          link: https://www.icloud.com/keynote/0Ab6ns7qXgl_-rf19fbxi-E6g
+        - name: Official Guidelines
+          link: https://developer.apple.com/ios/human-interface-guidelines
 - name: Developer Tools
   contents:
     - name: Using Xcode Playground
