@@ -55,11 +55,11 @@
     - name: View Geometry & Target-Action Controls
       resources:
         - name: Keynote Slides
-          link: https://www.icloud.com/keynote/0NpL5r5N1eyxbcWyfXTEFZn1Q
+          link: https://www.icloud.com/keynote/08hlizepGkHiBz7gsXww8iNOg
     - name: iOS Human Interface Guidelines
       resources:
         - name: Keynote Slides
-          link: https://www.icloud.com/keynote/0Ab6ns7qXgl_-rf19fbxi-E6g
+          link: https://www.icloud.com/keynote/0YrYGNgCF09aKKtXd9LusTRpQ
         - name: Official Guidelines
           link: https://developer.apple.com/ios/human-interface-guidelines
 - name: Developer Tools
