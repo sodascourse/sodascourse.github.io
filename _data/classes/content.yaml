@@ -62,6 +62,14 @@
           link: https://www.icloud.com/keynote/0YrYGNgCF09aKKtXd9LusTRpQ
         - name: Official Guidelines
           link: https://developer.apple.com/ios/human-interface-guidelines
+    - name: Table View & Navigation Controller
+      description: |
+        Introduction to Storyboard Segues, UINavigationController, and UITableViewController
+      resources:
+        - name: Keynote Slides
+          link: https://www.icloud.com/keynote/0B-3rjUD5dLZ4tUsW_mWOajug
+        - name: Airports List (Sample Project)
+          link: https://github.com/sodascourse/airport-list
 - name: Developer Tools
   contents:
     - name: Using Xcode Playground
