@@ -70,6 +70,20 @@
           link: https://www.icloud.com/keynote/0B-3rjUD5dLZ4tUsW_mWOajug
         - name: Airports List (Sample Project)
           link: https://github.com/sodascourse/airport-list
+    - name: Auto Layout & Adaptivity
+      description: |
+        Introduction to Auto Layout and the Adaptivity model
+      resources:
+        - name: Keynote Slides
+          link: https://www.icloud.com/keynote/098d6wCHMmG6T_TIv3UkifEgQ
+        - name: Airports List (Sample Project)
+          link: https://github.com/sodascourse/airport-list
+    - name: App Structures
+      description: |
+        Introduction to File System Structure of an iOS app.
+      resources:
+        - name: Keynote Slides
+          link: https://www.icloud.com/keynote/0W1OH-jpvUwTV0jiIC-hZcobg
 - name: Developer Tools
   contents:
     - name: Using Xcode Playground

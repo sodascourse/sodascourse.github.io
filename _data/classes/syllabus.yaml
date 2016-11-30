@@ -198,6 +198,24 @@
         - name: Airports List
           link: https://github.com/sodascourse/airport-list
 - date: 12/1
+  title: Auto Layout & App Structure
+  topics:
+    - Auto Layout
+    - Adaptivity
+    - Bundle and Sandbox
+    - Property List
+    - XCAssets
+  resources:
+    - title: Keynote Slides
+      content:
+        - name: Auto Layout & Adaptivity
+          link: https://www.icloud.com/keynote/098d6wCHMmG6T_TIv3UkifEgQ
+        - name: App Structure
+          link: https://www.icloud.com/keynote/0W1OH-jpvUwTV0jiIC-hZcobg
+    - title: Sample Projects
+      content:
+        - name: Airports List
+          link: https://github.com/sodascourse/airport-list
 - date: 12/8
   title: Midterm Progress Report of Final-Project
 - date: 12/15
