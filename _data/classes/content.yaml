@@ -98,6 +98,10 @@
       resources:
         - link: https://www.icloud.com/keynote/0z08zIA3IAxpRr_dr8DQSXvDg
           name: Keynote Slides
+    - name: Using Cocoapods
+      resources:
+        - name: Keynote Slides
+          link: https://www.icloud.com/keynote/0l8fHWZBYiDBQSOw9zXqBqF7Q
 - name: Introduction and Concept Topics
   contents:
     - name: Introduction to Computer and Programming

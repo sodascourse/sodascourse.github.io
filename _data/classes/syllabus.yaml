@@ -217,7 +217,15 @@
         - name: Airports List
           link: https://github.com/sodascourse/airport-list
 - date: 12/8
-  title: Midterm Progress Report of Final-Project
+  title: Midterm Progress Report of Final-Project & Cocoapods
+  topics:
+    - "[Review and catch up previous progress]"
+    - Use cocoapods
+  resources:
+    - title: Keynote Slides
+      content:
+        - name: Cocoapods
+          link: https://www.icloud.com/keynote/0l8fHWZBYiDBQSOw9zXqBqF7Q
 - date: 12/15
 - date: 12/22
 - date: 12/29
