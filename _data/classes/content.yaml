@@ -134,6 +134,14 @@
           link: https://www.icloud.com/keynote/0nz03wWkJDtyyjMS9_L_drW2g
         - name: Calculator Demo (Simple Version)
           link: https://github.com/sodascourse/calculator
+    - name: MRT Stations
+      description: |
+        <strong>Deadline @ 2016 12/28 11:59 PM.</strong> Practice about Table View and Navigation Controller
+      resources:
+        - name: Keynote Slides
+          link: https://www.icloud.com/keynote/0HV4jkv13BuHL0QWszB7D5yOw
+        - name: Resources
+          link: /assets/fall-16/hw3.tar.bz2
 - name: Class Announcements
   contents:
     - name: Preface
