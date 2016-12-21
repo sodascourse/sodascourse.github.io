@@ -235,6 +235,17 @@
         - name: Resources
           link: /assets/fall-16/hw3.tar.bz2
 - date: 12/22
+  title: App Lifecycle & Communication Patterns
+  topics:
+    - Application Lifecycle
+    - Communication Patterns
+  resources:
+    - title: Keynote Slides
+      content:
+        - name: App Lifecycle
+          link: https://www.icloud.com/keynote/0phU5xSa8un6XoO-P5-M7VD6A
+        - name: Communication Patterns
+          link: https://www.icloud.com/keynote/0LpZgw3LtKIn_Fcsdz_SgAwmQ
 - date: 12/29
 - date: 1/5
 - date: 1/12
