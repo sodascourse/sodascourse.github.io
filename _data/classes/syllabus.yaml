@@ -246,6 +246,10 @@
           link: https://www.icloud.com/keynote/0phU5xSa8un6XoO-P5-M7VD6A
         - name: Communication Patterns
           link: https://www.icloud.com/keynote/0LpZgw3LtKIn_Fcsdz_SgAwmQ
+    - title: Sample Projects
+      content:
+        - name: Color Selection
+          link: https://github.com/sodascourse/color-selection
 - date: 12/29
 - date: 1/5
 - date: 1/12
