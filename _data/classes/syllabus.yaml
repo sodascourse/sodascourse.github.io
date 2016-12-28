@@ -251,6 +251,21 @@
         - name: Color Selection
           link: https://github.com/sodascourse/color-selection
 - date: 12/29
+  title: Networking & Concurrency
+  topics:
+    - Networking
+    - Concurrency
+  resources:
+    - title: Keynote Slides
+      content:
+        - name: Networking & Concurrency
+          link: https://www.icloud.com/keynote/00R8rvCRlfFQ4fv8bcgvaB10g
+    - title: API Endpoints
+      content:
+        - name: https://course.sodas.tw/assets/airports/data.json
+          link: https://course.sodas.tw/assets/airports/data.json
+        - name: https://course.sodas.tw/assets/airports/HND.jpg
+          link: https://course.sodas.tw/assets/airports/HND.jpg
 - date: 1/5
 - date: 1/12
   title: Final-Project Presentation and Demo
