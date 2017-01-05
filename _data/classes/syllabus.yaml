@@ -267,6 +267,7 @@
         - name: https://course.sodas.tw/assets/airports/HND.jpg
           link: https://course.sodas.tw/assets/airports/HND.jpg
 - date: 1/5
+  title: Debug tools
   topics:
     - Using Xcode debug tools
 - date: 1/12
