@@ -267,5 +267,14 @@
         - name: https://course.sodas.tw/assets/airports/HND.jpg
           link: https://course.sodas.tw/assets/airports/HND.jpg
 - date: 1/5
+  topics:
+    - Using Xcode debug tools
 - date: 1/12
   title: Final-Project Presentation and Demo
+  topics:
+    - The idea/goal of your final project
+    - Design process overview
+    - Demo
+    - Tools/packages you used
+    - Summary
+    - 10mins-30mins for each team
