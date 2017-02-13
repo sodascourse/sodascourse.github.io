@@ -12,7 +12,9 @@
 
 - title: Slack
   text: |
-    Join and discuss about questions on the Slack. <a href="https://goo.gl/forms/K4lsvFzALWPkLPTk2" target="_blank">Get invitation</a>.
+    Join and discuss about questions on the Slack.
+    <a href="https://sodastsai-course.slack.com/signup" target="_blank">Sign up</a> or
+    <a href="https://goo.gl/forms/K4lsvFzALWPkLPTk2" target="_blank">Get invitation</a>.
   link: https://sodastsai-course.slack.com
   link_style: info
   link_text: Go to Slack
@@ -25,9 +27,9 @@
   link_style: success
   link_target: _blank
 
-- title: Team Composition forms
-  text: "Fill form to register your team of the final project"
-  link: https://goo.gl/forms/hZHSCwON2JprUvjV2
-  link_text: Application Form
-  link_style: success
-  link_target: _blank
+# - title: Team Composition forms
+#   text: "Fill form to register your team of the final project"
+#   link: https://goo.gl/forms/hZHSCwON2JprUvjV2
+#   link_text: Application Form
+#   link_style: success
+#   link_target: _blank

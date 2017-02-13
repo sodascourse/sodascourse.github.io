@@ -1,281 +1,281 @@
-- date: 9/15
-  title: Moon Festival Holiday
-- date: 9/22
-  title: Writing your first code
-  description: "Introduction to this class, computer science, and Apple's platform."
-  topics:
-    - Preface (Pre-Class Announcement)
-    - Introduction to Computer and Programming
-    - How to make an iOS app?
-    - Swift - Introduction to the Swift language
-    - Swift - Values and Variables
-  resources:
-    - title: Keynote Slides
-      content:
-        - name: Preface
-          link: https://www.icloud.com/keynote/0UokZsl4SPYCEMllvM5sopHpg
-        - name: Introduction to  Computer and Programming
-          link: https://www.icloud.com/keynote/0BYKE4Z4ZId3s09im9SERVxag
-        - name: How to start making an iOS app
-          link: https://www.icloud.com/keynote/0g9c7ft4ktjtuLq2cpRCF_yKw
-        - name: Introduction to the Swift
-          link: https://www.icloud.com/keynote/0I68ruGtrQCL8O0W8AbWK-2_A
-- date: 9/29
-  title: Introduction to Swift - I
-  description: Learn common programming components and data types in Swift (Variables and Functions)
-  topics:
-    - Using Xcode Playground
-    - Swift - Comments and Literals
-    - Swift - Variables and Types
-    - Swift - Operators
-    - Swift - Strings
-    - Swift - Functions
-  resources:
-    - title: Keynote Slides
-      content:
-        - name: Using Xcode Playground
-          link: https://www.icloud.com/keynote/0KHVNwHUGqz07zSsh-93Nvb5A
-        - name: "Variables, Types, and Functions"
-          link: https://www.icloud.com/keynote/0qJpPuNvixtAs8Y7t69YAknkA
-    - title: Playgrounds
-      content:
-        - name: Swift-Introduction-Lite.playground
-          link: https://github.com/sodascourse/swift-introduction
-        - name: "Practice: Oven Panel.playground"
-          link: https://github.com/sodascourse/swift-introduction
-    - title: Blog posts
-      content:
-        - name: Parameter Names and Argument Labels in functions of Swift
-          link: "https://medium.com/@sodastsai/parameter-names-and-argument-labels-in-functions-of-swift-9c6b37a2af73#.9w3ty4tv1"
-- date: 10/6
-  title: Introduction to Swift - II
-  description: |
-    Learn common programming components and data types in Swift
-    (Control Flows and Optionals)
-  topics:
-    - Swift - Control Flows
-    - Swift - Optionals
-    - How to find references in documentations
-  resources:
-    - title: Keynote Slides
-      content:
-        - name: Control Flows and Optionals
-          link: https://www.icloud.com/keynote/0PODND4TLSqOdax64kRdOqHaQ
-        - name: Reference to Documentations
-          link: https://www.icloud.com/keynote/0yKvDb94Es8wphUA5Zi2ZU5HQ
-    - title: Playgrounds
-      content:
-        - name: Swift-Introduction-Lite.playground
-          link: https://github.com/sodascourse/swift-introduction
-- date: 10/13
-  title: Introduction to Swift - III
-  description: "Learn Collections and Enums in Swift"
-  topics:
-    - Swift - Collections
-    - Swift - Enumerations (Enum)
-  resources:
-    - title: Keynote Slides
-      content:
-        - name: Collections and Enums
-          link: https://www.icloud.com/keynote/0wjOfP9xWujtYQ7tQhCeGv7hQ
-    - title: Playgrounds
-      content:
-        - name: Swift-Introduction-Lite.playground
-          link: https://github.com/sodascourse/swift-introduction
-    - title: "Homework 1: Book Store"
-      content:
-        - name: Keynote Slides
-          link: https://www.icloud.com/keynote/02oR_edzyiOiby2w85aIcOr8g
-        - name: "Book Store.playground"
-          link: https://github.com/sodascourse/swift-introduction
-- date: 10/20
-  title: Introduction to Swift - IV
-  description: "Learn Error Handling and Closures in Swift. Try to use git SCM."
-  topics:
-    - Swift - Error Handling
-    - Swift - Closures
-    - Using git and GitHub
-  resources:
-    - title: Keynote Slides
-      content:
-        - name: Error Handling and Closures
-          link: https://www.icloud.com/keynote/0MFyjfWqSRXd3w1qJ6ZL6pLCg
-        - name: Using git and GitHub
-          link: https://www.icloud.com/keynote/0z08zIA3IAxpRr_dr8DQSXvDg
-    - title: Playgrounds
-      content:
-        - name: Swift-Introduction-Lite.playground
-          link: https://github.com/sodascourse/swift-introduction
-- date: 10/27
-  title: Introduction to Swift - V
-  description: "Learn Structs, Classes, and Extensions in Swift."
-  topics:
-    - Object-Oriented Programming
-    - "Swift - Structures, with Properties and Methods"
-    - "Swift - Classes, with Inheritance"
-    - Swift - Extensions
-  resources:
-    - title: Keynote Slides
-      content:
-        - name: Structures, Classes, and Extensions
-          link: https://www.icloud.com/keynote/0N0YzWWWT8H2WhuTkA6pqiB_A
-    - title: Playgrounds
-      content:
-        - name: Swift-Introduction-Lite.playground
-          link: https://github.com/sodascourse/swift-introduction
-- date: 11/3
-  title: Introduction to Swift - VI
-  description: Learn Protocols and ARC in Swift.
-  topics:
-    - Protocol-Oriented Programming
-    - Swift - Protocols
-    - Swift - Type casting and Optional Chaining
-    - Swift - Access control of classes
-    - "Swift - ARC, Automatic Reference Counting"
-  resources:
-    - title: Keynote Slides
-      content:
-        - name: Protocols and misc OOP topics
-          link: https://www.icloud.com/keynote/0K-khHespH7iZ6iRgDX-gtg4g
-    - title: Playgrounds
-      content:
-        - name: Swift-Introduction-Lite.playground
-          link: https://github.com/sodascourse/swift-introduction
-- date: 11/10
-  title: Writing your first iOS app <small>and</small> Final-Project Proposal Presentation
-  topics:
-    - "Introduction to the CocoaTouch Frameworks: UIKit"
-    - Using Xcode Storyboard
-  resources:
-    - title: Keynote Slides
-      content:
-        - name: Making my first iOS app
-          link: https://www.icloud.com/keynote/0zj4rpeMhINlMigmiGieGbyMg
-    - title: Sample Projects
-      content:
-        - name: Calculator
-          link: https://github.com/sodascourse/calculator
-    - title: "Homework 2: Calculator"
-      content:
-        - name: Keynote Slides
-          link: https://www.icloud.com/keynote/0nz03wWkJDtyyjMS9_L_drW2g
-        - name: Calculator Demo (Simple Version)
-          link: https://github.com/sodascourse/calculator
-    - title: References
-      content:
-        - name: Start Developing iOS Apps (Swift)
-          link: https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/
-- date: 11/17
-  title: Target-Action pattern <small>and</small> iOS Human Interface Guidelines
-  topics:
-    - View Geometry and Target-action pattern
-    - iOS Human Interface Guidelines
-  resources:
-    - title: Keynote Slides
-      content:
-        - name: View Geometry & Target-Action Controls
-          link: https://www.icloud.com/keynote/08hlizepGkHiBz7gsXww8iNOg
-        - name: iOS Human Interface Guidelines
-          link: https://www.icloud.com/keynote/0YrYGNgCF09aKKtXd9LusTRpQ
-    - title: Apple Guidelines
-      content:
-        - name: iOS Human Interface Guidelines
-          link: https://developer.apple.com/ios/human-interface-guidelines
-- date: 11/24
-  title: Table View & Navigation Controller
-  topics:
-    - App Launch (Brief introduction)
-    - Storyboard Segues
-    - UINavigationController
-    - UITableViewController and Cells
-  resources:
-    - title: Keynote Slides
-      content:
-        - name: Table View & Navigation Controller
-          link: https://www.icloud.com/keynote/0B-3rjUD5dLZ4tUsW_mWOajug
-    - title: Sample Projects
-      content:
-        - name: Airports List
-          link: https://github.com/sodascourse/airport-list
-- date: 12/1
-  title: Auto Layout & App Structure
-  topics:
-    - Auto Layout
-    - Adaptivity
-    - Bundle and Sandbox
-    - Property List
-    - XCAssets
-  resources:
-    - title: Keynote Slides
-      content:
-        - name: Auto Layout & Adaptivity
-          link: https://www.icloud.com/keynote/098d6wCHMmG6T_TIv3UkifEgQ
-        - name: App Structure
-          link: https://www.icloud.com/keynote/0W1OH-jpvUwTV0jiIC-hZcobg
-    - title: Sample Projects
-      content:
-        - name: Airports List
-          link: https://github.com/sodascourse/airport-list
-- date: 12/8
-  title: Midterm Progress Report of Final-Project & Cocoapods
-  topics:
-    - "[Review and catch up previous progress]"
-    - Use cocoapods
-  resources:
-    - title: Keynote Slides
-      content:
-        - name: Cocoapods
-          link: https://www.icloud.com/keynote/0l8fHWZBYiDBQSOw9zXqBqF7Q
-- date: 12/15
-  resources:
-    - title: "Homework 3: MRT Stations"
-      content:
-        - name: Keynote Slides
-          link: https://www.icloud.com/keynote/0HV4jkv13BuHL0QWszB7D5yOw
-        - name: Resources
-          link: /assets/fall-16/hw3.tar.bz2
-- date: 12/22
-  title: App Lifecycle & Communication Patterns
-  topics:
-    - Application Lifecycle
-    - Communication Patterns
-  resources:
-    - title: Keynote Slides
-      content:
-        - name: App Lifecycle
-          link: https://www.icloud.com/keynote/0phU5xSa8un6XoO-P5-M7VD6A
-        - name: Communication Patterns
-          link: https://www.icloud.com/keynote/0LpZgw3LtKIn_Fcsdz_SgAwmQ
-    - title: Sample Projects
-      content:
-        - name: Color Selection
-          link: https://github.com/sodascourse/color-selection
-- date: 12/29
-  title: Networking & Concurrency
-  topics:
-    - Networking
-    - Concurrency
-  resources:
-    - title: Keynote Slides
-      content:
-        - name: Networking & Concurrency
-          link: https://www.icloud.com/keynote/00R8rvCRlfFQ4fv8bcgvaB10g
-    - title: API Endpoints
-      content:
-        - name: https://course.sodas.tw/assets/airports/data.json
-          link: https://course.sodas.tw/assets/airports/data.json
-        - name: https://course.sodas.tw/assets/airports/HND.jpg
-          link: https://course.sodas.tw/assets/airports/HND.jpg
-- date: 1/5
-  title: Debug tools
-  topics:
-    - Using Xcode debug tools
-- date: 1/12
-  title: Final-Project Presentation and Demo
-  topics:
-    - The idea/goal of your final project
-    - Design process overview
-    - Demo
-    - Tools/packages you used
-    - Summary
-    - 10mins-30mins for each team
+# - date: 9/15
+#   title: Moon Festival Holiday
+# - date: 9/22
+#   title: Writing your first code
+#   description: "Introduction to this class, computer science, and Apple's platform."
+#   topics:
+#     - Preface (Pre-Class Announcement)
+#     - Introduction to Computer and Programming
+#     - How to make an iOS app?
+#     - Swift - Introduction to the Swift language
+#     - Swift - Values and Variables
+#   resources:
+#     - title: Keynote Slides
+#       content:
+#         - name: Preface
+#           link: https://www.icloud.com/keynote/0UokZsl4SPYCEMllvM5sopHpg
+#         - name: Introduction to  Computer and Programming
+#           link: https://www.icloud.com/keynote/0BYKE4Z4ZId3s09im9SERVxag
+#         - name: How to start making an iOS app
+#           link: https://www.icloud.com/keynote/0g9c7ft4ktjtuLq2cpRCF_yKw
+#         - name: Introduction to the Swift
+#           link: https://www.icloud.com/keynote/0I68ruGtrQCL8O0W8AbWK-2_A
+# - date: 9/29
+#   title: Introduction to Swift - I
+#   description: Learn common programming components and data types in Swift (Variables and Functions)
+#   topics:
+#     - Using Xcode Playground
+#     - Swift - Comments and Literals
+#     - Swift - Variables and Types
+#     - Swift - Operators
+#     - Swift - Strings
+#     - Swift - Functions
+#   resources:
+#     - title: Keynote Slides
+#       content:
+#         - name: Using Xcode Playground
+#           link: https://www.icloud.com/keynote/0KHVNwHUGqz07zSsh-93Nvb5A
+#         - name: "Variables, Types, and Functions"
+#           link: https://www.icloud.com/keynote/0qJpPuNvixtAs8Y7t69YAknkA
+#     - title: Playgrounds
+#       content:
+#         - name: Swift-Introduction-Lite.playground
+#           link: https://github.com/sodascourse/swift-introduction
+#         - name: "Practice: Oven Panel.playground"
+#           link: https://github.com/sodascourse/swift-introduction
+#     - title: Blog posts
+#       content:
+#         - name: Parameter Names and Argument Labels in functions of Swift
+#           link: "https://medium.com/@sodastsai/parameter-names-and-argument-labels-in-functions-of-swift-9c6b37a2af73#.9w3ty4tv1"
+# - date: 10/6
+#   title: Introduction to Swift - II
+#   description: |
+#     Learn common programming components and data types in Swift
+#     (Control Flows and Optionals)
+#   topics:
+#     - Swift - Control Flows
+#     - Swift - Optionals
+#     - How to find references in documentations
+#   resources:
+#     - title: Keynote Slides
+#       content:
+#         - name: Control Flows and Optionals
+#           link: https://www.icloud.com/keynote/0PODND4TLSqOdax64kRdOqHaQ
+#         - name: Reference to Documentations
+#           link: https://www.icloud.com/keynote/0yKvDb94Es8wphUA5Zi2ZU5HQ
+#     - title: Playgrounds
+#       content:
+#         - name: Swift-Introduction-Lite.playground
+#           link: https://github.com/sodascourse/swift-introduction
+# - date: 10/13
+#   title: Introduction to Swift - III
+#   description: "Learn Collections and Enums in Swift"
+#   topics:
+#     - Swift - Collections
+#     - Swift - Enumerations (Enum)
+#   resources:
+#     - title: Keynote Slides
+#       content:
+#         - name: Collections and Enums
+#           link: https://www.icloud.com/keynote/0wjOfP9xWujtYQ7tQhCeGv7hQ
+#     - title: Playgrounds
+#       content:
+#         - name: Swift-Introduction-Lite.playground
+#           link: https://github.com/sodascourse/swift-introduction
+#     - title: "Homework 1: Book Store"
+#       content:
+#         - name: Keynote Slides
+#           link: https://www.icloud.com/keynote/02oR_edzyiOiby2w85aIcOr8g
+#         - name: "Book Store.playground"
+#           link: https://github.com/sodascourse/swift-introduction
+# - date: 10/20
+#   title: Introduction to Swift - IV
+#   description: "Learn Error Handling and Closures in Swift. Try to use git SCM."
+#   topics:
+#     - Swift - Error Handling
+#     - Swift - Closures
+#     - Using git and GitHub
+#   resources:
+#     - title: Keynote Slides
+#       content:
+#         - name: Error Handling and Closures
+#           link: https://www.icloud.com/keynote/0MFyjfWqSRXd3w1qJ6ZL6pLCg
+#         - name: Using git and GitHub
+#           link: https://www.icloud.com/keynote/0z08zIA3IAxpRr_dr8DQSXvDg
+#     - title: Playgrounds
+#       content:
+#         - name: Swift-Introduction-Lite.playground
+#           link: https://github.com/sodascourse/swift-introduction
+# - date: 10/27
+#   title: Introduction to Swift - V
+#   description: "Learn Structs, Classes, and Extensions in Swift."
+#   topics:
+#     - Object-Oriented Programming
+#     - "Swift - Structures, with Properties and Methods"
+#     - "Swift - Classes, with Inheritance"
+#     - Swift - Extensions
+#   resources:
+#     - title: Keynote Slides
+#       content:
+#         - name: Structures, Classes, and Extensions
+#           link: https://www.icloud.com/keynote/0N0YzWWWT8H2WhuTkA6pqiB_A
+#     - title: Playgrounds
+#       content:
+#         - name: Swift-Introduction-Lite.playground
+#           link: https://github.com/sodascourse/swift-introduction
+# - date: 11/3
+#   title: Introduction to Swift - VI
+#   description: Learn Protocols and ARC in Swift.
+#   topics:
+#     - Protocol-Oriented Programming
+#     - Swift - Protocols
+#     - Swift - Type casting and Optional Chaining
+#     - Swift - Access control of classes
+#     - "Swift - ARC, Automatic Reference Counting"
+#   resources:
+#     - title: Keynote Slides
+#       content:
+#         - name: Protocols and misc OOP topics
+#           link: https://www.icloud.com/keynote/0K-khHespH7iZ6iRgDX-gtg4g
+#     - title: Playgrounds
+#       content:
+#         - name: Swift-Introduction-Lite.playground
+#           link: https://github.com/sodascourse/swift-introduction
+# - date: 11/10
+#   title: Writing your first iOS app <small>and</small> Final-Project Proposal Presentation
+#   topics:
+#     - "Introduction to the CocoaTouch Frameworks: UIKit"
+#     - Using Xcode Storyboard
+#   resources:
+#     - title: Keynote Slides
+#       content:
+#         - name: Making my first iOS app
+#           link: https://www.icloud.com/keynote/0zj4rpeMhINlMigmiGieGbyMg
+#     - title: Sample Projects
+#       content:
+#         - name: Calculator
+#           link: https://github.com/sodascourse/calculator
+#     - title: "Homework 2: Calculator"
+#       content:
+#         - name: Keynote Slides
+#           link: https://www.icloud.com/keynote/0nz03wWkJDtyyjMS9_L_drW2g
+#         - name: Calculator Demo (Simple Version)
+#           link: https://github.com/sodascourse/calculator
+#     - title: References
+#       content:
+#         - name: Start Developing iOS Apps (Swift)
+#           link: https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/
+# - date: 11/17
+#   title: Target-Action pattern <small>and</small> iOS Human Interface Guidelines
+#   topics:
+#     - View Geometry and Target-action pattern
+#     - iOS Human Interface Guidelines
+#   resources:
+#     - title: Keynote Slides
+#       content:
+#         - name: View Geometry & Target-Action Controls
+#           link: https://www.icloud.com/keynote/08hlizepGkHiBz7gsXww8iNOg
+#         - name: iOS Human Interface Guidelines
+#           link: https://www.icloud.com/keynote/0YrYGNgCF09aKKtXd9LusTRpQ
+#     - title: Apple Guidelines
+#       content:
+#         - name: iOS Human Interface Guidelines
+#           link: https://developer.apple.com/ios/human-interface-guidelines
+# - date: 11/24
+#   title: Table View & Navigation Controller
+#   topics:
+#     - App Launch (Brief introduction)
+#     - Storyboard Segues
+#     - UINavigationController
+#     - UITableViewController and Cells
+#   resources:
+#     - title: Keynote Slides
+#       content:
+#         - name: Table View & Navigation Controller
+#           link: https://www.icloud.com/keynote/0B-3rjUD5dLZ4tUsW_mWOajug
+#     - title: Sample Projects
+#       content:
+#         - name: Airports List
+#           link: https://github.com/sodascourse/airport-list
+# - date: 12/1
+#   title: Auto Layout & App Structure
+#   topics:
+#     - Auto Layout
+#     - Adaptivity
+#     - Bundle and Sandbox
+#     - Property List
+#     - XCAssets
+#   resources:
+#     - title: Keynote Slides
+#       content:
+#         - name: Auto Layout & Adaptivity
+#           link: https://www.icloud.com/keynote/098d6wCHMmG6T_TIv3UkifEgQ
+#         - name: App Structure
+#           link: https://www.icloud.com/keynote/0W1OH-jpvUwTV0jiIC-hZcobg
+#     - title: Sample Projects
+#       content:
+#         - name: Airports List
+#           link: https://github.com/sodascourse/airport-list
+# - date: 12/8
+#   title: Midterm Progress Report of Final-Project & Cocoapods
+#   topics:
+#     - "[Review and catch up previous progress]"
+#     - Use cocoapods
+#   resources:
+#     - title: Keynote Slides
+#       content:
+#         - name: Cocoapods
+#           link: https://www.icloud.com/keynote/0l8fHWZBYiDBQSOw9zXqBqF7Q
+# - date: 12/15
+#   resources:
+#     - title: "Homework 3: MRT Stations"
+#       content:
+#         - name: Keynote Slides
+#           link: https://www.icloud.com/keynote/0HV4jkv13BuHL0QWszB7D5yOw
+#         - name: Resources
+#           link: /assets/fall-16/hw3.tar.bz2
+# - date: 12/22
+#   title: App Lifecycle & Communication Patterns
+#   topics:
+#     - Application Lifecycle
+#     - Communication Patterns
+#   resources:
+#     - title: Keynote Slides
+#       content:
+#         - name: App Lifecycle
+#           link: https://www.icloud.com/keynote/0phU5xSa8un6XoO-P5-M7VD6A
+#         - name: Communication Patterns
+#           link: https://www.icloud.com/keynote/0LpZgw3LtKIn_Fcsdz_SgAwmQ
+#     - title: Sample Projects
+#       content:
+#         - name: Color Selection
+#           link: https://github.com/sodascourse/color-selection
+# - date: 12/29
+#   title: Networking & Concurrency
+#   topics:
+#     - Networking
+#     - Concurrency
+#   resources:
+#     - title: Keynote Slides
+#       content:
+#         - name: Networking & Concurrency
+#           link: https://www.icloud.com/keynote/00R8rvCRlfFQ4fv8bcgvaB10g
+#     - title: API Endpoints
+#       content:
+#         - name: https://course.sodas.tw/assets/airports/data.json
+#           link: https://course.sodas.tw/assets/airports/data.json
+#         - name: https://course.sodas.tw/assets/airports/HND.jpg
+#           link: https://course.sodas.tw/assets/airports/HND.jpg
+# - date: 1/5
+#   title: Debug tools
+#   topics:
+#     - Using Xcode debug tools
+# - date: 1/12
+#   title: Final-Project Presentation and Demo
+#   topics:
+#     - The idea/goal of your final project
+#     - Design process overview
+#     - Demo
+#     - Tools/packages you used
+#     - Summary
+#     - 10mins-30mins for each team
