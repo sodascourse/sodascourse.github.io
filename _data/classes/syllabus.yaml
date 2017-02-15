@@ -1,21 +1,48 @@
 - date: 2/22
+  title: Preface & Introduction
+  description: |
+    Class announcement & Introduction to the platform and developer tools.
+  topics:
+    - Preface
+    - Introduction to Apple's Platform
+    - Introduction to Xcode
+    - Git SCM tool
+  resources:
+    - title: Keynote Slides
+      content:
+        - name: Preface
+          link: https://www.icloud.com/keynote/0rZfKKQ5b6bnttsCqiIBAz0Ag
+        - name: Introduction to Apple's Platform
+          link: https://www.icloud.com/keynote/0b648bPPcEhdmOYQlouNU7RFw
+        - name: Introduction to Xcode
+          link:
+        - name: Git SCM tool
+          link:
 - date: 3/1
+  title: the Swift language - I
 - date: 3/8
+  title: the Swift language - II
 - date: 3/15
 - date: 3/22
 - date: 3/29
+  title: Midterm presentation - iOS HIG & Proposal of the Final Project
+  row-class: table-info
 - date: 4/5
 - date: 4/12
 - date: 4/19
 - date: 4/26
 - date: 5/3
 - date: 5/10
+  title: Midterm presentation - Progress Report of the Final Project
+  row-class: table-info
 - date: 5/17
 - date: 5/24
 - date: 5/31
 - date: 6/7
 - date: 6/14
 - date: 6/21
+  title: Final Project presentation
+  row-class: table-info
 
 
 

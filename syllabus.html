@@ -41,7 +41,7 @@ stylesheet: syllabus.css
             </thead>
             <tbody>
                 {% for class in site.data.classes.syllabus %}
-                    <tr data-date="{{ class.date }}">
+                    <tr data-date="{{ class.date }}" class="{{ class.row-class }}">
                         <th>{{ class.date }}</th>
                         {% if class.title %}
                             <th>
