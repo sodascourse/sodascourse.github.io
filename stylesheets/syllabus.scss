@@ -11,4 +11,9 @@
       &:nth-child(4) { width: 36%; }
     }
   }
+  tbody {
+    th {
+      &:nth-child(1) { text-align: right; }
+    }
+  }
 }
