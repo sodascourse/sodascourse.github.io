@@ -21,20 +21,36 @@
 - date: 3/1
   title: the Swift language - I
   topics:
-    - Variables and Constants
+    - Literals, Variables, and Constants
     - Types
     - Operators
-    - Control flows
     - Functions
+    - Control flows
+    - Optionals
     - Collections
-    - Generics
+  resources:
+    - title: Keynote Slides
+      content:
+        - name: Introduction to Swift - I
+          link: https://www.icloud.com/keynote/0L4ykOdlfuy5tUJBSrrPBvCVA
+    - title: Playgrounds
+      content:
+        - name: Swift-Introduction.playground
+          link: https://github.com/sodascourse/swift-introduction
 - date: 3/8
   title: the Swift language - II
   topics:
     - Enum
+    - Error Handling
+    - Closures
     - Struct and Class
-    - ...
 - date: 3/15
+  title: the Swift language - III
+  topics:
+    - Extensions
+    - Protocols
+    - Generics
+    - ...
 - date: 3/22
 - date: 3/29
   title: Midterm presentation - iOS HIG & Proposal of the Final Project
