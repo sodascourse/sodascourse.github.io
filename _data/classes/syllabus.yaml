@@ -27,7 +27,6 @@
     - Functions
     - Control flows
     - Optionals
-    - Collections
   resources:
     - title: Keynote Slides
       content:
@@ -40,13 +39,14 @@
 - date: 3/8
   title: the Swift language - II
   topics:
+    - Collections
     - Enum
     - Error Handling
-    - Closures
     - Struct and Class
 - date: 3/15
   title: the Swift language - III
   topics:
+    - Closures
     - Extensions
     - Protocols
     - Generics
