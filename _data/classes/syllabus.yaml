@@ -43,13 +43,12 @@
     - Enum
     - Error Handling
     - Struct and Class
-    - Extensions
   resources:
     - title: Keynote Slides
       content:
         - name: Collections, Enums, and Errors Handling
           link: https://www.icloud.com/keynote/0q0NxbfGTAQTyZ-POSpBH6Tjg
-        - name: Structures, Classes, and Extensions
+        - name: Structures, Classes, Extensions, and Protocols
           link: https://www.icloud.com/keynote/009tkA6_ShY_wi-KBrOVeHZKA
     - title: Playgrounds
       content:
@@ -58,16 +57,25 @@
 - date: 3/15
   title: the Swift language - III
   topics:
-    - Closures
+    - Extensions
     - Protocols
-    - Generics
-    - ...
+    - Closures
   resources:
+    - title: Keynote
+      content:
+        - name: Structures, Classes, Extensions, and Protocols
+          link: https://www.icloud.com/keynote/009tkA6_ShY_wi-KBrOVeHZKA
+        - name: Closures
+          link: https://www.icloud.com/keynote/01-W_722QgfmgkyUVDJxm8-xw
     - title: Playgrounds
       content:
         - name: Swift-Introduction.playground
           link: https://github.com/sodascourse/swift-introduction
 - date: 3/22
+  title: the Swift language - IV
+  topics:
+    - Generics
+    - ...
 - date: 3/29
   title: Midterm presentation - iOS HIG & Proposal of the Final Project
   row-class: table-info
