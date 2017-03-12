@@ -71,6 +71,10 @@
       content:
         - name: Swift-Introduction.playground
           link: https://github.com/sodascourse/swift-introduction
+    - title: Homework
+      content:
+        - name: Book Store (HW1)
+          link: https://www.icloud.com/keynote/0nW7qXIqRtjUgIQVXzwVy-tKQ
 - date: 3/22
   title: the Swift language - IV
   topics:
