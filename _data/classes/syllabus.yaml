@@ -57,16 +57,13 @@
 - date: 3/15
   title: the Swift language - III
   topics:
+    - Struct and Class
     - Extensions
-    - Protocols
-    - Closures
   resources:
     - title: Keynote
       content:
         - name: Structures, Classes, Extensions, and Protocols
           link: https://www.icloud.com/keynote/009tkA6_ShY_wi-KBrOVeHZKA
-        - name: Closures
-          link: https://www.icloud.com/keynote/01-W_722QgfmgkyUVDJxm8-xw
     - title: Playgrounds
       content:
         - name: Swift-Introduction.playground
@@ -78,20 +75,37 @@
 - date: 3/22
   title: the Swift language - IV
   topics:
+    - Protocols
+    - Closures
+    - Type Casting
     - Generics
-    - ...
+    - Automatic Reference Counting (ARC)
+    - Optional Chaining
+    - Access Control
+  resources:
+    - title: Keynote
+      content:
+        - name: Structures, Classes, Extensions, and Protocols
+          link: https://www.icloud.com/keynote/009tkA6_ShY_wi-KBrOVeHZKA
+        - name: Misc Swift Topics
+          link: https://www.icloud.com/keynote/01-W_722QgfmgkyUVDJxm8-xw
+    - title: Playgrounds
+      content:
+        - name: Swift-Introduction.playground
+          link: https://github.com/sodascourse/swift-introduction
 - date: 3/29
+  title: Your first iOS app
+- date: 4/5
   title: Midterm presentation - iOS HIG & Proposal of the Final Project
   row-class: table-info
-- date: 4/5
 - date: 4/12
 - date: 4/19
 - date: 4/26
 - date: 5/3
 - date: 5/10
+- date: 5/17
   title: Midterm presentation - Progress Report of the Final Project
   row-class: table-info
-- date: 5/17
 - date: 5/24
 - date: 5/31
 - date: 6/7
