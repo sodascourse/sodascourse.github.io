@@ -77,10 +77,10 @@
   topics:
     - Protocols
     - Closures
+    - Optional Chaining
     - Type Casting
     - Generics
     - Automatic Reference Counting (ARC)
-    - Optional Chaining
     - Access Control
   resources:
     - title: Keynote
@@ -95,6 +95,26 @@
           link: https://github.com/sodascourse/swift-introduction
 - date: 3/29
   title: Your first iOS app
+  topics:
+    - Swift Introduction - Generics
+    - Swift Introduction - Automatic Reference Counting (ARC)
+    - Swift Introduction - Access Control
+    - The first iOS app - Counter
+  resources:
+    - title: Keynote
+      content:
+        - name: Misc Swift Topics
+          link: https://www.icloud.com/keynote/01-W_722QgfmgkyUVDJxm8-xw
+        - name: Making my first iOS app
+          link: https://www.icloud.com/keynote/0-Jzpd9_4jhEds-RNuA6dy1tg
+    - title: Playgrounds
+      content:
+        - name: Swift-Introduction.playground
+          link: https://github.com/sodascourse/swift-introduction
+    - title: Sample Projects
+      content:
+        - name: Counter
+          link: https://github.com/sodascourse/counter
 - date: 4/5
   title: Midterm presentation - iOS HIG & Proposal of the Final Project
   row-class: table-info
