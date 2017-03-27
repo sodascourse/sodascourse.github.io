@@ -116,17 +116,39 @@
         - name: Counter
           link: https://github.com/sodascourse/counter
 - date: 4/5
-  title: Midterm presentation - iOS HIG & Proposal of the Final Project
-  row-class: table-info
 - date: 4/12
+  title: Midterm presentation - Proposal of the Final Project
+  row-class: table-info
+  topics:
+    - 4 members for each team, register before the class of 4/5.
+    - 7 min for presentation, and 3 min for Q&A. (Team based)
+    - |
+      The presentation materials are not limited. Slides, videos, or other forms are acceptable.
+      If you have digital materials, make sure they're okay to play with your computer.
+      <em>I could lend my VGA adapter for Macs with mini display port or thunderbolt port.</em>
+    - |
+      The presentation should include a problem to be solved, but not just tech items you are interested in.
+      It should also table about <strong>who, when, where, why, what, and how to use</strong> this solution.
+      You can provide a hand-draft or low-fi prototype of your app; Detail mockup/wireframe are not required,
+      and also not suggested. If possible, you can also show your schedule/plan and related works.
 - date: 4/19
 - date: 4/26
+  title: iOS Human Interface Guideline
+  row-class: table-info
+  topics:
+    - <strong>Presentation</strong>
+    - You have to prepare a 6 min presentation (team based), with assigned section of the iOS HIG.
+    - You should prepare slides with the outline or digest of the assigned section.
+    - The assigned section would be announced later.
+    -
+    - <strong>Lecture</strong>
+    - TBA
 - date: 5/3
 - date: 5/10
 - date: 5/17
+- date: 5/24
   title: Midterm presentation - Progress Report of the Final Project
   row-class: table-info
-- date: 5/24
 - date: 5/31
 - date: 6/7
 - date: 6/14
