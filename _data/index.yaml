@@ -27,9 +27,9 @@
   link_style: success
   link_target: _blank
 
-# - title: Team Composition forms
-#   text: "Fill form to register your team of the final project"
-#   link: https://goo.gl/forms/hZHSCwON2JprUvjV2
-#   link_text: Application Form
-#   link_style: success
-#   link_target: _blank
+- title: Team Composition forms
+  text: "Fill form to register your team of the final project"
+  link: https://docs.google.com/forms/d/e/1FAIpQLSfwYBPJ0nzNe-ye21ok_bB3Yexu7YejuTikkXh1yRBacBmy7g/viewform?c=0&w=1&usp=send_form
+  link_text: Application Form
+  link_style: success
+  link_target: _blank
