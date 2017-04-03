@@ -120,6 +120,28 @@
         - name: Calculator (HW2)
           link: https://www.icloud.com/keynote/0qldSxQgRfY8hQyiGY7OXkg9A
 - date: 4/5
+  title: Design an iOS app
+  topics:
+    - Introduction to UIView
+    - Storyboard review
+    - "Case: Build a Note app"
+  resources:
+    - title: Keynote
+      content:
+        - name: Introduction to UIView
+          link: https://www.icloud.com/keynote/02ECXf9-hkjUu2SrUkfmWqfGQ
+        - name: Let's build a Note app
+          link: https://www.icloud.com/keynote/0PqePAXr_YEyuzmuKEizejmFg
+    - title: Sample Projects
+      content:
+        - name: Counter
+          link: https://github.com/sodascourse/counter
+        - name: Calculator
+          link: https://github.com/sodascourse/calculator
+    - title: Playgrounds
+      content:
+        - name: Introduction to UIView.playground
+          link: https://github.com/sodascourse/uikit-intro
 - date: 4/12
   title: Midterm presentation - Proposal of the Final Project
   row-class: table-info
@@ -134,9 +156,8 @@
       The presentation should include a problem to be solved, but not just tech items you are interested in.
       It should also table about <strong>who, when, where, why, what, and how to use</strong> this solution.
       You can provide a hand-draft or low-fi prototype of your app; Detail mockup/wireframe are not required,
-      and also not suggested. If possible, you can also show your schedule/plan and related works.
+      and also not suggested. If possible, you can also show your schedule/plan and related works
 - date: 4/19
-- date: 4/26
   title: iOS Human Interface Guideline
   row-class: table-info
   topics:
@@ -147,6 +168,7 @@
     -
     - <strong>Lecture</strong>
     - TBA
+- date: 4/26
 - date: 5/3
 - date: 5/10
 - date: 5/17
