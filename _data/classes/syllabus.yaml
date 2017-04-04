@@ -125,6 +125,7 @@
     - Introduction to UIView
     - Storyboard review
     - "Case: Build a Note app"
+    - the MVC pattern
   resources:
     - title: Keynote
       content:
