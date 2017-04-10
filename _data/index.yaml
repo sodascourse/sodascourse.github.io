@@ -33,3 +33,10 @@
   link_text: Application Form
   link_style: success
   link_target: _blank
+
+- title: Team and Homework Status sheet
+  text: Homework submission status and team registration result
+  link: https://docs.google.com/spreadsheets/d/1GeyOlftZ1VzahlsxZ08kQgLg-mYg8cBRrubLZm578K8/edit?usp=sharing
+  link_text: Sheet
+  link_style: primary
+  link_target: _blank
