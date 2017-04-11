@@ -158,7 +158,13 @@
       It should also table about <strong>who, when, where, why, what, and how to use</strong> this solution.
       You can provide a hand-draft or low-fi prototype of your app; Detail mockup/wireframe are not required,
       and also not suggested. If possible, you can also show your schedule/plan and related works
+  resources:
+    - title: Keynote
+      content:
+        - name: About the Design
+          link: https://www.icloud.com/keynote/0yoT-AMWzqCeIXZxri-7nCwPg
 - date: 4/19
+- date: 4/26
   title: iOS Human Interface Guideline
   row-class: table-info
   topics:
@@ -169,7 +175,6 @@
     -
     - <strong>Lecture</strong>
     - TBA
-- date: 4/26
 - date: 5/3
 - date: 5/10
 - date: 5/17
