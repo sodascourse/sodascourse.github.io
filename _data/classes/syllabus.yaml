@@ -164,6 +164,15 @@
         - name: About the Design
           link: https://www.icloud.com/keynote/0yoT-AMWzqCeIXZxri-7nCwPg
 - date: 4/19
+  title: Auto Layout and Adaptivity UI
+  topics:
+    - Using Auto Layout to layout views
+    - Using Adaptivity APIs to create responsive UI
+  resources:
+    - title: Keynote
+      content:
+        - name: Auto Layout & Adaptivity
+          link: https://www.icloud.com/keynote/0Bke38m6uhbOFZ9OAqC-kE2CQ
 - date: 4/26
   title: iOS Human Interface Guideline
   row-class: table-info
