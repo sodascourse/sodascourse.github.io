@@ -183,7 +183,16 @@
     - <a href="https://goo.gl/sj9wC4" target="_blank">Assigned sections of each teams</a>
     -
     - <strong>Lecture</strong>
-    - TBA
+    - Using Cocoapods Package Manager
+  resources:
+    - title: Keynote
+      content:
+        - name: Cocoapods
+          link: https://www.icloud.com/keynote/084gtkarAdqvcfJLpqq2voM5A
+    - title: Reading Assignment
+      content:
+        - name: iOS Human Interface Guidelines
+          link: https://developer.apple.com/ios/human-interface-guidelines/
 - date: 5/3
 - date: 5/10
 - date: 5/17
