@@ -194,6 +194,19 @@
         - name: iOS Human Interface Guidelines
           link: https://developer.apple.com/ios/human-interface-guidelines/
 - date: 5/3
+  title: App Structure & File System Programming
+  topics:
+    - File System Programming
+    - App Structure and Bundle
+  resources:
+    - title: Keynote
+      contents:
+        - name: App Structure & File System Programming
+          link: https://www.icloud.com/keynote/0d7djApbOCv3lPgc7loJ7OqaQ
+    - title: Sample Code
+      contents:
+        - name: Simple Note
+          link: https://github.com/sodascourse/simple-note
 - date: 5/10
 - date: 5/17
 - date: 5/24
