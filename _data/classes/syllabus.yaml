@@ -200,11 +200,11 @@
     - App Structure and Bundle
   resources:
     - title: Keynote
-      contents:
+      content:
         - name: App Structure & File System Programming
           link: https://www.icloud.com/keynote/0d7djApbOCv3lPgc7loJ7OqaQ
     - title: Sample Code
-      contents:
+      content:
         - name: Simple Note
           link: https://github.com/sodascourse/simple-note
 - date: 5/10
