@@ -208,6 +208,27 @@
         - name: Simple Note
           link: https://github.com/sodascourse/simple-note
 - date: 5/10
+  title: Storyboard Segue & Table View Controller
+  topics:
+    - Lifecycle of UIViewController
+    - Load Storyboard
+    - Storyboard Segue
+    - UINavigationController and UITableViewController
+  resources:
+    - title: Keynote
+      content:
+        - name: Storyboard Segue & Table View Controller
+          link: https://www.icloud.com/keynote/0TEDg_ck0eocP4nnHLKdTO82g
+    - title: Sample Code
+      content:
+        - name: Simple Note
+          link: https://github.com/sodascourse/simple-note
+    - title: Homework
+      content:
+        - name: Airports List (HW3)
+          link: https://www.icloud.com/keynote/013tlRYA9ZkezEHAoh4_xOZFw
+        - name: Assets of Airports List HW
+          link: /assets/spring-17/AirportsData.tar.bz2
 - date: 5/17
 - date: 5/24
   title: Midterm presentation - Progress Report of the Final Project
