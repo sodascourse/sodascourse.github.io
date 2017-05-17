@@ -249,6 +249,11 @@
 - date: 5/24
   title: Midterm presentation - Progress Report of the Final Project
   row-class: table-info
+  topics:
+    - |
+      Progress report of your final project. Each team has 5 minutes to report
+      current progress, including questions or some research you found interesting.
+      There's no required content or format for this report.
 - date: 5/31
 - date: 6/7
 - date: 6/14
