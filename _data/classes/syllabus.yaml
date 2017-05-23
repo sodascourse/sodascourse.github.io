@@ -247,13 +247,21 @@
         - name: Simple Note
           link: https://github.com/sodascourse/simple-note
 - date: 5/24
-  title: Midterm presentation - Progress Report of the Final Project
+  title: Gesture Recognizer & Midterm presentation - Progress Report of the Final Project
   row-class: table-info
   topics:
     - |
       Progress report of your final project. Each team has 5 minutes to report
       current progress, including questions or some research you found interesting.
       There's no required content or format for this report.
+    - Using Gesture Recognizer
+  resources:
+    - title: Sample Code
+      content:
+        - name: Simple Note
+          link: https://github.com/sodascourse/simple-note
+        - name: Gestures
+          link: https://github.com/sodascourse/gesture
 - date: 5/31
 - date: 6/7
 - date: 6/14
