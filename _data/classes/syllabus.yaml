@@ -263,6 +263,21 @@
         - name: Gestures
           link: https://github.com/sodascourse/gesture
 - date: 5/31
+  title: Networking & Async Tasks
+  topics:
+    - Concurrency programming in iOS
+    - Networking in iOS
+  resources:
+    - title: Keynote
+      content:
+        - name: Networking & Concurrency
+          link: https://www.icloud.com/keynote/06RIDDjncDJ6cZxYImANYKJRg
+    - title: Sample Code
+      content:
+        - name: Simple Note
+          link: https://github.com/sodascourse/simple-note
+        - name: Simple Note API
+          link: https://github.com/sodascourse/note-storage
 - date: 6/7
 - date: 6/14
 - date: 6/21
