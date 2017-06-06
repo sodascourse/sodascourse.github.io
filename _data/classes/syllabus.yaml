@@ -281,6 +281,7 @@
 - date: 6/7
   title: Networking & Debugging
   topics:
+    - Swift 4
     - Networking in iOS
     - Using LLDB
   resources:
@@ -288,6 +289,10 @@
       content:
         - name: Networking & Concurrency
           link: https://www.icloud.com/keynote/06RIDDjncDJ6cZxYImANYKJRg
+    - title: Playground
+      content:
+        - name: What's new in Swift 4
+          link: https://github.com/ole/whats-new-in-swift-4
     - title: Sample Code
       content:
         - name: Simple Note
@@ -295,6 +300,12 @@
         - name: Simple Note API
           link: https://github.com/sodascourse/note-storage
 - date: 6/14
+  title: Objective-C
+  resources:
+    - title: Keynote
+      content:
+        - name: Objective-C
+          link: https://www.icloud.com/keynote/0cFJXmAVUG2-EkXrK0QVgZsnQ
 - date: 6/21
   title: Final Project presentation
   row-class: table-info
