@@ -301,6 +301,8 @@
           link: https://github.com/sodascourse/note-storage
 - date: 6/14
   title: Objective-C
+  topics:
+    - Brief introduction to Objective-C.
   resources:
     - title: Keynote
       content:
@@ -308,4 +310,18 @@
           link: https://www.icloud.com/keynote/0cFJXmAVUG2-EkXrK0QVgZsnQ
 - date: 6/21
   title: Final Project presentation
+  topics:
+    - <strong>Don't be late. We won't wait for you if you're late.</strong>
+    - Each team has 10-12 minutes to present.
+    - Each team should also have to submit their slides and git repo at <strong>2017 6/21 23:59</strong>.
+    - |
+      The presentation should contain
+      <ol>
+        <li>A brief review of the idea/goal of your final project</li>
+        <li>Design process overview</li>
+        <li>Demo of the app</li>
+        <li>Tools/packages you used</li>
+        <li>Summary</li>
+      </ol>
+    - Please make sure your slides and demo could be displayed well with the projector.
   row-class: table-info
