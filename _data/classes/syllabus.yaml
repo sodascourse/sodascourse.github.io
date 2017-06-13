@@ -300,8 +300,10 @@
         - name: Simple Note API
           link: https://github.com/sodascourse/note-storage
 - date: 6/14
-  title: Objective-C
+  title: Unittest, UI Testing, and Objective-C
   topics:
+    - Unittest
+    - UI Testing
     - Brief introduction to Objective-C.
   resources:
     - title: Keynote
